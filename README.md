@@ -1,13 +1,18 @@
 # Extraction-2015
 code for a paper (2015) in CAGEO
+
 %This is the code for a paper in CAGEO.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
+
 Title of the paper: Extraction of Microcracks in Rock Images based on Heuristic Graph Searching and Application
+
 Co-authors: Zhihua Luo, Zhende Zhu, Huaining Ruan, Chong Shi.
+
 Email: lzhhhu@163.com, hnruan@hhu.edu.cn
 
 %%%%%%%%%%%%%%%%%%%%%%%
+
 This directory contains the code to extract the cracks from images of rocks, and it gives some feature values of the crack. 
 The basic idea of the approach presented in this paper is as follows: once a crack is identified by the user, only its two endpoints are needed, and then the algorithm will solve the crack result automatically.
 
