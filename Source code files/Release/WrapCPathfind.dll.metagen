@@ -1,0 +1,111 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly WrapCPathfind, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438: 
+	hash=None, flags=None
+Assembly Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438: 
+	hash=None, flags=None
+Assembly Emgu.Util, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Struct WrapCPathfind.CLRLocation: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Properties:
+    Int32 Col  'get set' : 
+    Int32 Row  'get set' : 
+  Methods:
+    get_Row(): PrivateScope, Public, HideBySig, SpecialName
+    set_Row(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Col(): PrivateScope, Public, HideBySig, SpecialName
+    set_Col(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class WrapCPathfind.CLRCrackParas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.ComponentModel.INotifyPropertyChanged
+  Properties:
+    Double Area 'get set' : 
+    Double Angle 'get set' : 
+    Double Meanwidth 'get set' : 
+    Double Minwidth 'get set' : 
+    Double Maxwidth 'get set' : 
+    Double Length 'get set' : 
+    Int32 No   'get set' : 
+  Events:
+    System.ComponentModel.PropertyChangedEventHandler PropertyChanged: SpecialName
+  Methods:
+    get_No(): PrivateScope, Public, HideBySig, SpecialName
+    set_No(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Length(): PrivateScope, Public, HideBySig, SpecialName
+    set_Length(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Maxwidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_Maxwidth(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Minwidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_Minwidth(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Meanwidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_Meanwidth(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Angle(): PrivateScope, Public, HideBySig, SpecialName
+    set_Angle(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Area(): PrivateScope, Public, HideBySig, SpecialName
+    set_Area(Double): PrivateScope, Public, HideBySig, SpecialName
+    Clone(): PrivateScope, Public, HideBySig
+    Copyfrom(_crackparas* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    UnitTransform(Double): PrivateScope, Public, HideBySig
+    add_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    OnPropertyChanged(String): PrivateScope, Public, HideBySig
+Class WrapCPathfind.CLROptionalSET: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.ComponentModel.INotifyPropertyChanged
+  Properties:
+    Int32 Tolerate 'get set' : 
+    Boolean Ispresmooth 'get set' : 
+    Boolean Iscustomt 'get set' : 
+    Boolean Isinvert 'get set' : 
+  Events:
+    System.ComponentModel.PropertyChangedEventHandler PropertyChanged: SpecialName
+  Methods:
+    get_Isinvert(): PrivateScope, Public, HideBySig, SpecialName
+    set_Isinvert(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Iscustomt(): PrivateScope, Public, HideBySig, SpecialName
+    set_Iscustomt(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Ispresmooth(): PrivateScope, Public, HideBySig, SpecialName
+    set_Ispresmooth(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_Tolerate(): PrivateScope, Public, HideBySig, SpecialName
+    set_Tolerate(Int32): PrivateScope, Public, HideBySig, SpecialName
+    Copyto(_optionalset* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    add_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    remove_PropertyChanged(PropertyChangedEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    OnPropertyChanged(String): PrivateScope, Public, HideBySig
+Class WrapCPathfind.CWrapPathfinding: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    WrapCPathfind.CLRCrackParas crackparas : Public
+    System.Drawing.Bitmap bitmapforshow : Public
+    System.Drawing.Bitmap bitmapformarkshow : Public
+  Methods:
+    Calculate(CLRLocation[] IsConst, CLROptionalSET): PrivateScope, Public, HideBySig
+    Init(Bitmap): PrivateScope, Public, HideBySig
+    LightSelected(Int32): PrivateScope, Public, HideBySig
+    MarkPoint(CLRLocation, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    DeleteCrack(Int32): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

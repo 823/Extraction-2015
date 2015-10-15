@@ -1,0 +1,16 @@
+﻿<Window x:Class="ImageProWPF.AboutAuthorBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Author info"  Height="300" Width="400" WindowStyle="ToolWindow">
+<!-- 
+    <Window.Background>
+        <ImageBrush ImageSource="/ImageProWPF;component/Images/authorbackground.jpg" />
+    </Window.Background> -->
+    <Grid OpacityMask="#FFF0F0F0" Background="#FFF0F0F0">
+        <StackPanel Margin="8,24,0,22.4">
+            <TextBlock Height="32" TextWrapping="Wrap" Text="Software developing:    research group of Prof. Zhende Zhu and Huaining Ruan "/>
+            <TextBlock Height="32" TextWrapping="Wrap" Text="Address：   Hohai University,No. 1, Xikang road, Nanjing, China. "/>
+            <TextBlock Height="113" TextWrapping="Wrap" Text="If you have any questions in using, please contact lzh8966@163.com, thank you！"/>
+        </StackPanel>
+    </Grid>
+</Window>

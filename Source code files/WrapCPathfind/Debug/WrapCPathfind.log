@@ -1,0 +1,1271 @@
+﻿Build started 2015/10/15 8:56:40.
+Environment at start of build:
+ADSK_3DSMAX_x64_2012 = C:\Program Files\Autodesk\3ds Max 2012\
+ALLUSERSPROFILE = C:\ProgramData
+ANT_ROOT = C:\Cocos\tools\ant\bin
+APPDATA = C:\Users\luozhihua\AppData\Roaming
+CADOE_DOCDIR100 = C:\SIMULIA\Ansys Inc\v100\CommonFiles\help\en-us\solviewer
+CADOE_LIBDIR100 = C:\SIMULIA\Ansys Inc\v100\CommonFiles\Language\en-us
+CM2012DIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+CM2014DIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+COCOS_CONSOLE_ROOT = C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin
+COCOS_FRAMEWORKS = C:\Cocos\frameworks
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = LZH
+ComSpec = C:\WINDOWS\system32\cmd.exe
+configsetroot = C:\WINDOWS\ConfigSetRoot
+C_EM64T_REDIST11 = C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+FP_NO_HOST_CHECK = NO
+GTK_BASEPATH = C:\Program Files (x86)\GtkSharp\2.12\
+HOMEDRIVE = C:
+HOMEPATH = \Users\luozhihua
+ICEMCFD_SYSDIR = win64_amd
+IFORT_COMPILER12 = C:\Program Files (x86)\Intel\ComposerXE-2011\
+ILBDIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+ILMDIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+INTEL_LICENSE_FILE = C:\Program Files (x86)\Common Files\Intel\Licenses
+KMP_STACKSIZE = 4m
+LM_LICENSE_FILE = 27011@lzh
+LOCALAPPDATA = C:\Users\luozhihua\AppData\Local
+LOGONSERVER = \\MicrosoftAccount
+LSTC_LICENSE = ANSYS
+MSMPI_INC = C:\Program Files\Microsoft HPC Pack 2008 R2\Inc\
+MSMPI_LIB32 = C:\Program Files\Microsoft HPC Pack 2008 R2\Lib\i386\
+MSMPI_LIB64 = C:\Program Files\Microsoft HPC Pack 2008 R2\Lib\amd64\
+NUMBER_OF_PROCESSORS = 8
+OS = Windows_NT
+Path = C:\ProgramData\Oracle\Java\javapath;C:\Program Files\ImageMagick-6.9.0-Q16;C:\Program Files\Microsoft HPC Pack 2008 R2\Bin\;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\compiler\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\SIMULIA\Abaqus6.14\Commands;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2010b\runtime\win64;C:\Program Files\MATLAB\R2010b\bin;C:\Program Files\Git\cmd;C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin;C:\Program Files\OpenCV2.1\vs2010\bin;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Cocos\tools\Python27;C:\Users\luozhihua\AppData\Local\Code\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 3c03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = D:\TEMP
+TMP = D:\TEMP
+USERDOMAIN = LZH
+USERDOMAIN_ROAMINGPROFILE = LZH
+USERNAME = luozhihua
+USERPROFILE = C:\Users\luozhihua
+VisualStudioDir = C:\Users\luozhihua\Documents\Visual Studio 2010
+VS100COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+windir = C:\WINDOWS
+
+08:56:40.335     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" on node 2 (build target(s)).
+08:56:40.335     1>Building with tools version "4.0".
+08:56:40.335     1>Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:2)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (entry point):
+                   Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Using "Message" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Message" (TaskId:2)
+                     Configuration=Debug (TaskId:2)
+                   Done executing task "Message". (TaskId:2)
+                   Task "Message" (TaskId:3)
+                     Platform=Win32 (TaskId:3)
+                   Done executing task "Message". (TaskId:3)
+                   Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\' != '' and !HasTrailingSlash('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\')).
+                   Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+                   Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('Debug\' != '' and !HasTrailingSlash('Debug\')).
+08:56:40.351     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "WrapCPathfind.vcxproj".: (TargetId:2)
+08:56:40.351     1>Target "_DetermineManagedStateFromCL: (TargetId:3)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.351     1>Done building target "_DetermineManagedStateFromCL" in project "WrapCPathfind.vcxproj".: (TargetId:3)
+08:56:40.351     1>Target "_PrepareForBuild: (TargetId:4)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.351     1>Done building target "_PrepareForBuild" in project "WrapCPathfind.vcxproj".: (TargetId:4)
+08:56:40.351     1>Target "SetBuildDefaultEnvironmentVariables: (TargetId:5)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.Cpp.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+                   Using "SetEnv" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "SetEnv" (TaskId:4)
+                     PATH=C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\;C:\WINDOWS\SysWow64;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\ImageMagick-6.9.0-Q16;C:\Program Files\Microsoft HPC Pack 2008 R2\Bin\;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\compiler\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\SIMULIA\Abaqus6.14\Commands;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2010b\runtime\win64;C:\Program Files\MATLAB\R2010b\bin;C:\Program Files\Git\cmd;C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin;C:\Program Files\OpenCV2.1\vs2010\bin;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Cocos\tools\Python27;C:\Users\luozhihua\AppData\Local\Code\bin; (TaskId:4)
+                   Done executing task "SetEnv". (TaskId:4)
+                   Task "SetEnv" skipped, due to false condition; ('$(_IsNativeEnvironment)' == 'true') was evaluated as ('' == 'true').
+                   Task "SetEnv" (TaskId:5)
+                     LIB=C:\Program Files (x86)\emgucv2.1.0.793\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\lib (TaskId:5)
+                   Done executing task "SetEnv". (TaskId:5)
+                   Task "SetEnv" (TaskId:6)
+                     LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:6)
+                   Done executing task "SetEnv". (TaskId:6)
+                   Task "SetEnv" (TaskId:7)
+                     INCLUDE=C:\Program Files (x86)\emgucv2.1.0.793\opencv\include\opencv;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include; (TaskId:7)
+                   Done executing task "SetEnv". (TaskId:7)
+08:56:40.351     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "WrapCPathfind.vcxproj".: (TargetId:5)
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+08:56:40.351     1>Target "BeforeResolveReferences: (TargetId:6)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveReferences" depends on it):
+08:56:40.351     1>Done building target "BeforeResolveReferences" in project "WrapCPathfind.vcxproj".: (TargetId:6)
+08:56:40.351     1>Target "AssignProjectConfiguration: (TargetId:7)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveReferences" depends on it):
+                   Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignProjectConfiguration" (TaskId:8)
+                     Project reference "..\NativeCCode\NativeCCode.vcxproj" has been assigned the "Debug|Win32" configuration. (TaskId:8)
+                   Done executing task "AssignProjectConfiguration". (TaskId:8)
+08:56:40.366     1>Done building target "AssignProjectConfiguration" in project "WrapCPathfind.vcxproj".: (TargetId:7)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+08:56:40.366     1>Target "_SplitProjectReferencesByFileExistence: (TargetId:8)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveProjectReferences" depends on it):
+                   Using "ResolveNonMSBuildProjectOutput" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ResolveNonMSBuildProjectOutput" (TaskId:9)
+                     Resolving project reference "..\NativeCCode\NativeCCode.vcxproj". (TaskId:9)
+                     Project reference "..\NativeCCode\NativeCCode.vcxproj" has not been resolved. (TaskId:9)
+                   Done executing task "ResolveNonMSBuildProjectOutput". (TaskId:9)
+08:56:40.366     1>Done building target "_SplitProjectReferencesByFileExistence" in project "WrapCPathfind.vcxproj".: (TargetId:8)
+08:56:40.366     1>Target "_RemoveNameMetadataFromProjectReferenceItems: (TargetId:9)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveProjectReferences" depends on it):
+08:56:40.366     1>Done building target "_RemoveNameMetadataFromProjectReferenceItems" in project "WrapCPathfind.vcxproj".: (TargetId:9)
+08:56:40.366     1>Target "ResolveProjectReferences: (TargetId:10)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveReferences" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '' and ('true' == 'true' or 'true' != 'true') and '10.0' != '10.0' and '..\NativeCCode\NativeCCode.vcxproj' != '').
+                   Using "MSBuild" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MSBuild" (TaskId:10)
+                     Global Properties: (TaskId:10)
+                       Configuration=Debug (TaskId:10)
+                       Platform=Win32 (TaskId:10)
+08:56:40.335     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (1) is building "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (2) on node 2 (GetTargetPath target(s)).
+08:56:40.366     2>Building with tools version "4.0".
+08:56:40.366     2>Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:11)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+                   Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Message" (TaskId:11)
+                     Configuration=Debug (TaskId:11)
+                   Done executing task "Message". (TaskId:11)
+                   Task "Message" (TaskId:12)
+                     Platform=Win32 (TaskId:12)
+                   Done executing task "Message". (TaskId:12)
+                   Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\' != '' and !HasTrailingSlash('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\')).
+                   Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+                   Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('Debug\' != '' and !HasTrailingSlash('Debug\')).
+08:56:40.382     2>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "NativeCCode.vcxproj".: (TargetId:11)
+08:56:40.382     2>Target "_DetermineManagedStateFromCL: (TargetId:12)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetTargetPath" depends on it):
+08:56:40.382     2>Done building target "_DetermineManagedStateFromCL" in project "NativeCCode.vcxproj".: (TargetId:12)
+08:56:40.382     2>Target "GetTargetPath: (TargetId:13)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+08:56:40.382     2>Done building target "GetTargetPath" in project "NativeCCode.vcxproj".: (TargetId:13)
+08:56:40.382     2>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (GetTargetPath target(s)).
+08:56:40.382     1>Done executing task "MSBuild". (TaskId:10)
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '' and 'true' != 'true' and 'true' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '').
+                   Task "MSBuild" (TaskId:13)
+                     Global Properties: (TaskId:13)
+                       Configuration=Debug (TaskId:13)
+                       Platform=Win32 (TaskId:13)
+08:56:40.335     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (1) is building "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (2:2) on node 2 (GetNativeManifest target(s)).
+08:56:40.382   2:2>Building with tools version "4.0".
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+08:56:40.382   2:2>Target "GetNativeManifest: (TargetId:14)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+08:56:40.382   2:2>Done building target "GetNativeManifest" in project "NativeCCode.vcxproj".: (TargetId:14)
+08:56:40.382   2:2>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (GetNativeManifest target(s)).
+08:56:40.382     1>Done executing task "MSBuild". (TaskId:13)
+                   Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('..\NativeCCode\NativeCCode.vcxproj' != '' and '' != '').
+08:56:40.382     1>Done building target "ResolveProjectReferences" in project "WrapCPathfind.vcxproj".: (TargetId:10)
+                   Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+08:56:40.382     1>Target "GetFrameworkPaths: (TargetId:15)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.NETFramework.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+08:56:40.382     1>Done building target "GetFrameworkPaths" in project "WrapCPathfind.vcxproj".: (TargetId:15)
+                   Target "GetWinFXPath" skipped, due to false condition; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) was evaluated as (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+08:56:40.382     1>Target "GetReferenceAssemblyPaths: (TargetId:16)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "GetReferenceAssemblyPaths" skipped, due to false condition; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) was evaluated as ('.NETFramework,Version=v4.0' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')).
+08:56:40.382     1>Done building target "GetReferenceAssemblyPaths" in project "WrapCPathfind.vcxproj".: (TargetId:16)
+08:56:40.382     1>Target "PlatformPrepareForBuild: (TargetId:17)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "PrepareForBuild" depends on it):
+                   Task "VCMessage" skipped, due to false condition; (!(exists('$(VCTargetsPath)\Platforms\Win32\PlatformToolsets\$(PlatformToolset)\Microsoft.Cpp.Win32.$(PlatformToolset).targets'))) was evaluated as (!(exists('C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\\Platforms\Win32\PlatformToolsets\v100\Microsoft.Cpp.Win32.v100.targets'))).
+08:56:40.382     1>Done building target "PlatformPrepareForBuild" in project "WrapCPathfind.vcxproj".: (TargetId:17)
+                   Target "GetFrameworkPaths" skipped. Previously built successfully.
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+08:56:40.382     1>Target "PrepareForBuild: (TargetId:18)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(ConfigurationPlatformExists)' != 'true') was evaluated as (''!='true' and 'true' != 'true').
+                   Using "MakeDir" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MakeDir" (TaskId:14)
+                   Done executing task "MakeDir". (TaskId:14)
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and ($(TargetFrameworkVersion)=='v3.5' or $(TargetFrameworkVersion)=='v3.0' or $(TargetFrameworkVersion)=='v2.0' )) was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and (v4.0=='v3.5' or v4.0=='v3.0' or v4.0=='v2.0' )).
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and 'v100'=='v90').
+                   Task "VCMessage" skipped, due to false condition; ('$(VCInstallDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(IntDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "VCMessage" skipped, due to false condition; ('$(OutDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "MakeDir" (TaskId:15)
+                   Done executing task "MakeDir". (TaskId:15)
+08:56:40.382     1>Done building target "PrepareForBuild" in project "WrapCPathfind.vcxproj".: (TargetId:18)
+08:56:40.382     1>Target "GetInstalledSDKLocations: (TargetId:19)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveSDKReferences" depends on it):
+                   Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+08:56:40.382     1>Done building target "GetInstalledSDKLocations" in project "WrapCPathfind.vcxproj".: (TargetId:19)
+08:56:40.382     1>Target "ResolveSDKReferences: (TargetId:20)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+08:56:40.382     1>Done building target "ResolveSDKReferences" in project "WrapCPathfind.vcxproj".: (TargetId:20)
+                   Target "ResolveSDKReferences" skipped. Previously built successfully.
+08:56:40.382     1>Target "ExpandSDKReferences: (TargetId:21)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+08:56:40.382     1>Done building target "ExpandSDKReferences" in project "WrapCPathfind.vcxproj".: (TargetId:21)
+08:56:40.382     1>Target "ResolveAssemblyReferences: (TargetId:22)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveReferences" depends on it):
+                   Using "ResolveAssemblyReference" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ResolveAssemblyReference" (TaskId:16)
+                     TargetFrameworkMoniker: (TaskId:16)
+                         .NETFramework,Version=v4.0 (TaskId:16)
+                     TargetFrameworkMonikerDisplayName: (TaskId:16)
+                         .NET Framework 4 (TaskId:16)
+                     TargetedRuntimeVersion: (TaskId:16)
+                         v4.0.30319 (TaskId:16)
+                     Assemblies: (TaskId:16)
+                         Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438 (TaskId:16)
+                             HintPath = 'C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll' (TaskId:16)
+                         Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438 (TaskId:16)
+                             HintPath = 'C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll' (TaskId:16)
+                         Emgu.Util, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438 (TaskId:16)
+                             HintPath = 'C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll' (TaskId:16)
+                         System (TaskId:16)
+                         System.Data (TaskId:16)
+                         System.Drawing (TaskId:16)
+                         System.Xml (TaskId:16)
+                         ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60 (TaskId:16)
+                             HintPath = 'C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll' (TaskId:16)
+                         System.Core (TaskId:16)
+                     AssemblyFiles: (TaskId:16)
+                     CandidateAssemblyFiles: (TaskId:16)
+                     TargetFrameworkDirectories: (TaskId:16)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:16)
+                     InstalledAssemblyTables: (TaskId:16)
+                     IgnoreInstalledAssemblyTable: (TaskId:16)
+                         False (TaskId:16)
+                     SearchPaths: (TaskId:16)
+                         {CandidateAssemblyFiles} (TaskId:16)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib (TaskId:16)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:16)
+                         {HintPathFromItem} (TaskId:16)
+                         {TargetFrameworkDirectory} (TaskId:16)
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx} (TaskId:16)
+                         {AssemblyFolders} (TaskId:16)
+                         {GAC} (TaskId:16)
+                         {RawFileName} (TaskId:16)
+                         C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\ (TaskId:16)
+                     AllowedAssemblyExtensions: (TaskId:16)
+                         .winmd (TaskId:16)
+                         .dll (TaskId:16)
+                         .exe (TaskId:16)
+                     AllowedRelatedFileExtensions: (TaskId:16)
+                         .pdb (TaskId:16)
+                         .xml (TaskId:16)
+                         .pri (TaskId:16)
+                     AppConfigFile: (TaskId:16)
+                          (TaskId:16)
+                     AutoUnify: (TaskId:16)
+                         True (TaskId:16)
+                     CopyLocalDependenciesWhenParentReferenceInGac: (TaskId:16)
+                         True (TaskId:16)
+                     FindDependencies: (TaskId:16)
+                         True (TaskId:16)
+                     TargetProcessorArchitecture: (TaskId:16)
+                         x86 (TaskId:16)
+                     StateFile: (TaskId:16)
+                         Debug\WrapCPathfind.vcxprojResolveAssemblyReference.cache (TaskId:16)
+                     InstalledAssemblySubsetTables: (TaskId:16)
+                     IgnoreInstalledAssemblySubsetTable: (TaskId:16)
+                         False (TaskId:16)
+                     TargetFrameworkSubsets: (TaskId:16)
+                     FullTargetFrameworkSubsetNames: (TaskId:16)
+                         Full (TaskId:16)
+                     ProfileName: (TaskId:16)
+                          (TaskId:16)
+                     FullFrameworkFolders: (TaskId:16)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:16)
+                     LatestTargetFrameworkDirectories: (TaskId:16)
+                     ProfileTablesLocation: (TaskId:16)
+                     Primary reference "Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll". (TaskId:16)
+                         Reference found at search path location "{HintPathFromItem}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.exe", but it didn't exist. (TaskId:16)
+                         Found related file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.xml". (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v2.0.50727". (TaskId:16)
+                     Primary reference "Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll". (TaskId:16)
+                         Reference found at search path location "{HintPathFromItem}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.UI.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.UI.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.CV.UI.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.UI.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.UI.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.CV.UI.exe", but it didn't exist. (TaskId:16)
+                         Found related file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.xml". (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v2.0.50727". (TaskId:16)
+                     Primary reference "Emgu.Util, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll". (TaskId:16)
+                         Reference found at search path location "{HintPathFromItem}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.Util.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.Util.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\Emgu.Util.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.Util.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.Util.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\Emgu.Util.exe", but it didn't exist. (TaskId:16)
+                         Found related file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.xml". (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v2.0.50727". (TaskId:16)
+                     Unified primary reference "System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.winmd", but it didn't exist. (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Unified primary reference "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Data.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Data.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Data.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Data.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Data.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Data.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.winmd", but it didn't exist. (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Unified primary reference "System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a". (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Drawing.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Drawing.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Drawing.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Drawing.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Drawing.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Drawing.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.winmd", but it didn't exist. (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Unified primary reference "System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Xml.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Xml.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Xml.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Xml.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Xml.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Xml.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.winmd", but it didn't exist. (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Primary reference "ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60". (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll". (TaskId:16)
+                         Reference found at search path location "{HintPathFromItem}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\ZedGraph.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\ZedGraph.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\ZedGraph.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\ZedGraph.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\ZedGraph.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\ZedGraph.exe", but it didn't exist. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v2.0.50727". (TaskId:16)
+                     Unified primary reference "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "3.5.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.winmd", but it didn't exist. (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Unified Dependency "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "1.0.5000.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "1.0.5000.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\zlib.net.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\emgucv2.1.0.793\bin". (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\mscorlib.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\mscorlib.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\mscorlib.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\mscorlib.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\mscorlib.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\mscorlib.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\mscorlib.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\mscorlib.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\mscorlib.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.winmd", but it didn't exist. (TaskId:16)
+                         Required by "Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Required by "Emgu.Util, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Required by "Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Required by "ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60". (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Dependency "zlib.net, Version=1.0.3.0, Culture=neutral, PublicKeyToken=47d7877cb3620160". (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\emgucv2.1.0.793\bin\zlib.net.dll". (TaskId:16)
+                         Reference found at search path location "C:\Program Files (x86)\emgucv2.1.0.793\bin". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\emgucv2.1.0.793\bin". (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\zlib.net.winmd", but it didn't exist. (TaskId:16)
+                         Required by "Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Required by "Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v1.1.4322". (TaskId:16)
+                     Unified Dependency "System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "3.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceModel.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\emgucv2.1.0.793\bin". (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.ServiceModel.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.ServiceModel.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.ServiceModel.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.ServiceModel.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.ServiceModel.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.ServiceModel.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.ServiceModel.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.ServiceModel.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.ServiceModel.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ServiceModel.winmd", but it didn't exist. (TaskId:16)
+                         Required by "Emgu.CV, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         Required by "Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                     Unified Dependency "System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Using this version instead of original version "2.0.0.0" in "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" because there is a more recent version of this framework file. (TaskId:16)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll". (TaskId:16)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\emgucv2.1.0.793\bin". (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.Windows.Forms.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.Windows.Forms.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\emgucv2.1.0.793\bin\System.Windows.Forms.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Windows.Forms.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Windows.Forms.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Windows.Forms.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Windows.Forms.winmd", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Windows.Forms.dll", but it didn't exist. (TaskId:16)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Windows.Forms.exe", but it didn't exist. (TaskId:16)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:16)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.winmd", but it didn't exist. (TaskId:16)
+                         Required by "ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60". (TaskId:16)
+                         Required by "Emgu.CV.UI, Version=2.1.0.793, Culture=neutral, PublicKeyToken=7281126722ab4438". (TaskId:16)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:16)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:16)
+                   Done executing task "ResolveAssemblyReference". (TaskId:16)
+08:56:40.429     1>Done building target "ResolveAssemblyReferences" in project "WrapCPathfind.vcxproj".: (TargetId:22)
+                   Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+08:56:40.429     1>Target "AfterResolveReferences: (TargetId:23)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResolveReferences" depends on it):
+08:56:40.429     1>Done building target "AfterResolveReferences" in project "WrapCPathfind.vcxproj".: (TargetId:23)
+                   Target "ImplicitlyExpandDesignTimeFacades" skipped, due to false condition; ('$(ImplicitlyExpandDesignTimeFacades)' == 'true') was evaluated as ('' == 'true').
+                   Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+08:56:40.429     1>Target "ResolveReferences: (TargetId:24)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.429     1>Done building target "ResolveReferences" in project "WrapCPathfind.vcxproj".: (TargetId:24)
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+08:56:40.429     1>Target "InitializeBuildStatus: (TargetId:25)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+                   Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ReadLinesFromFile" (TaskId:17)
+                   Done executing task "ReadLinesFromFile". (TaskId:17)
+                   Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "WriteLinesToFile" (TaskId:18)
+                   Done executing task "WriteLinesToFile". (TaskId:18)
+                   Using "Touch" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Touch" (TaskId:19)
+                     Creating "Debug\WrapCPathfind.unsuccessfulbuild" because "AlwaysCreate" was specified. (TaskId:19)
+                   Done executing task "Touch". (TaskId:19)
+08:56:40.429     1>Done building target "InitializeBuildStatus" in project "WrapCPathfind.vcxproj".: (TargetId:25)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:40.429     1>Target "BuildGenerateSourcesTraverse: (TargetId:26)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '' and '..\NativeCCode\NativeCCode.vcxproj' != '' and 'true' == 'true').
+08:56:40.429     1>Done building target "BuildGenerateSourcesTraverse" in project "WrapCPathfind.vcxproj".: (TargetId:26)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.429     1>Target "BeforeBuildGenerateSources: (TargetId:27)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "BeforeBuildGenerateSources" in project "WrapCPathfind.vcxproj".: (TargetId:27)
+08:56:40.429     1>Target "PreBuildEvent: (TargetId:28)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PreBuildEvent.Command)' != '') was evaluated as ('' != '').
+08:56:40.429     1>Done building target "PreBuildEvent" in project "WrapCPathfind.vcxproj".: (TargetId:28)
+                   Target "CustomBuild" skipped, due to false condition; ('@(CustomBuild)' != '') was evaluated as ('' != '').
+08:56:40.429     1>Target "_GenerateXMLData: (TargetId:29)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "_GenerateXMLData" in project "WrapCPathfind.vcxproj".: (TargetId:29)
+08:56:40.429     1>Target "_GenerateWebServiceProxy: (TargetId:30)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "_GenerateWebServiceProxy" in project "WrapCPathfind.vcxproj".: (TargetId:30)
+                   Target "Xsd" skipped, due to false condition; ('@(Xsd)' != '') was evaluated as ('' != '').
+08:56:40.429     1>Target "_Xsd: (TargetId:31)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "_Xsd" in project "WrapCPathfind.vcxproj".: (TargetId:31)
+08:56:40.429     1>Target "MakeDirsForMidl: (TargetId:32)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Midl" depends on it):
+                   Task "Makedir" (TaskId:20)
+                   Done executing task "Makedir". (TaskId:20)
+08:56:40.429     1>Done building target "MakeDirsForMidl" in project "WrapCPathfind.vcxproj".: (TargetId:32)
+                   Target "Midl" skipped, due to false condition; ('@(Midl)' != '') was evaluated as ('' != '').
+                   Target "CustomBuild" skipped, due to false condition; ('@(CustomBuild)' != '') was evaluated as ('' != '').
+08:56:40.429     1>Target "ComputeMIDLGeneratedCompileInputs: (TargetId:33)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Midl" depends on it):
+08:56:40.429     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "WrapCPathfind.vcxproj".: (TargetId:33)
+08:56:40.429     1>Target "AfterMidl: (TargetId:34)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Midl" depends on it):
+08:56:40.429     1>Done building target "AfterMidl" in project "WrapCPathfind.vcxproj".: (TargetId:34)
+08:56:40.429     1>Target "_Midl: (TargetId:35)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "_Midl" in project "WrapCPathfind.vcxproj".: (TargetId:35)
+08:56:40.429     1>Target "AfterBuildGenerateSources: (TargetId:36)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "AfterBuildGenerateSources" in project "WrapCPathfind.vcxproj".: (TargetId:36)
+08:56:40.429     1>Target "AfterBuildGenerateSourcesEvent: (TargetId:37)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:40.429     1>Done building target "AfterBuildGenerateSourcesEvent" in project "WrapCPathfind.vcxproj".: (TargetId:37)
+08:56:40.429     1>Target "BuildGenerateSources: (TargetId:38)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.429     1>Done building target "BuildGenerateSources" in project "WrapCPathfind.vcxproj".: (TargetId:38)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:40.429     1>Target "BuildCompileTraverse: (TargetId:39)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildCompile" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '' and '..\NativeCCode\NativeCCode.vcxproj' != ''  and 'true' == 'true').
+08:56:40.429     1>Done building target "BuildCompileTraverse" in project "WrapCPathfind.vcxproj".: (TargetId:39)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.429     1>Target "BeforeClCompile: (TargetId:40)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+08:56:40.429     1>Done building target "BeforeClCompile" in project "WrapCPathfind.vcxproj".: (TargetId:40)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+08:56:40.429     1>Target "ComputeCLInputPDBName: (TargetId:41)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+08:56:40.429     1>Done building target "ComputeCLInputPDBName" in project "WrapCPathfind.vcxproj".: (TargetId:41)
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.429     1>Target "ComputeReferenceCLInput: (TargetId:42)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+                   Task "WriteLinesToFile" (TaskId:21)
+                   Done executing task "WriteLinesToFile". (TaskId:21)
+                   Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true' and '%(ClCompile.CompileAsManaged)' != 'false' and '%(ClCompile.CompileAsManaged)' != '') was evaluated as (''=='true' and 'true' != 'false' and 'true' != '').
+08:56:40.429     1>Done building target "ComputeReferenceCLInput" in project "WrapCPathfind.vcxproj".: (TargetId:42)
+08:56:40.429     1>Target "MakeDirsForCl: (TargetId:43)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+                   Task "MakeDir" (TaskId:22)
+                   Done executing task "MakeDir". (TaskId:22)
+08:56:40.429     1>Done building target "MakeDirsForCl" in project "WrapCPathfind.vcxproj".: (TargetId:43)
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+08:56:40.429     1>Target "_SelectedFiles: (TargetId:44)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "SelectClCompile" depends on it):
+08:56:40.429     1>Done building target "_SelectedFiles" in project "WrapCPathfind.vcxproj".: (TargetId:44)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+                   Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+                   Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+                   Target "_SelectedFiles" skipped. Previously built successfully.
+08:56:40.429     1>Target "SelectCustomBuild: (TargetId:45)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "SelectClCompile" depends on it):
+08:56:40.429     1>Done building target "SelectCustomBuild" in project "WrapCPathfind.vcxproj".: (TargetId:45)
+08:56:40.429     1>Target "SelectClCompile: (TargetId:46)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ClCompile" depends on it):
+08:56:40.429     1>Done building target "SelectClCompile" in project "WrapCPathfind.vcxproj".: (TargetId:46)
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+08:56:40.429     1>Target "GenerateTargetFrameworkMonikerAttribute: (TargetId:47)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ClCompile" depends on it):
+                   Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+                   Input files: C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\\Microsoft.BuildSteps.targets
+                   Output files: D:\TEMP\.NETFramework,Version=v4.0.AssemblyAttributes.cpp
+08:56:40.429     1>Done building target "GenerateTargetFrameworkMonikerAttribute" in project "WrapCPathfind.vcxproj".: (TargetId:47)
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+08:56:40.429     1>Target "ManagedIncrementalBuildPreProcessDependencyGraph: (TargetId:48)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MetaGen.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ClCompile" depends on it):
+                   Using "MIBPreProcessDependencyGraph" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MIBPreProcessDependencyGraph" (TaskId:23)
+                   Done executing task "MIBPreProcessDependencyGraph". (TaskId:23)
+08:56:40.445     1>Done building target "ManagedIncrementalBuildPreProcessDependencyGraph" in project "WrapCPathfind.vcxproj".: (TargetId:48)
+08:56:40.445     1>Target "ClCompile: (TargetId:49)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+                   Task "Delete" skipped, due to false condition; ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) was evaluated as ('ProgramDatabase' != '' and 'ProgramDatabase' != 'OldStyle' and 'Debug\vc100.pdb' != '' and !Exists(Debug\vc100.pdb)).
+                   Task "Delete" skipped, due to false condition; ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) was evaluated as ('ProgramDatabase' != '' and 'ProgramDatabase' != 'OldStyle' and 'Debug\vc100.pdb' != '' and !Exists(Debug\vc100.pdb)).
+                   Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true') was evaluated as ('Use' == 'Create' and ''!='true').
+                   Using "CL" task from assembly "Microsoft.Build.CppTasks.Win32, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "CL" (TaskId:24)
+                     Using cached input dependency table built from: (TaskId:24)
+                     	C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\Debug\cl.read.1.tlog (TaskId:24)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\STDAFX.CPP: (TaskId:24)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\STDAFX.OBJ (TaskId:24)
+                     All outputs are up-to-date. (TaskId:24)
+                   Done executing task "CL". (TaskId:24)
+                   Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true') was evaluated as ('NotUsing' == 'Create' and ''!='true').
+                   Task "CL" (TaskId:25)
+                     Using cached input dependency table built from: (TaskId:25)
+                     	C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\Debug\cl.read.1.tlog (TaskId:25)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\ASSEMBLYINFO.CPP|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\WRAPCPATHFIND.CPP: (TaskId:25)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\ASSEMBLYINFO.OBJ (TaskId:25)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\WRAPCPATHFIND.OBJ (TaskId:25)
+                     All outputs are up-to-date. (TaskId:25)
+                   Done executing task "CL". (TaskId:25)
+                   Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' != 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true') was evaluated as ('Create' != 'Create' and ''!='true').
+                   Task "CL" (TaskId:26)
+                     Using cached input dependency table built from: (TaskId:26)
+                     	C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\Debug\cl.read.1.tlog (TaskId:26)
+                     Outputs for D:\TEMP\.NETFRAMEWORK,VERSION=V4.0.ASSEMBLYATTRIBUTES.CPP: (TaskId:26)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\.NETFRAMEWORK,VERSION=V4.0.ASSEMBLYATTRIBUTES.OBJ (TaskId:26)
+                     All outputs are up-to-date. (TaskId:26)
+                   Done executing task "CL". (TaskId:26)
+08:56:40.476     1>Done building target "ClCompile" in project "WrapCPathfind.vcxproj".: (TargetId:49)
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+08:56:40.476     1>Target "ManagedIncrementalBuildPostProcessDependencyGraph: (TargetId:50)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MetaGen.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+                   Using "MIBPostProcessDependencyGraph" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MIBPostProcessDependencyGraph" (TaskId:27)
+                   Done executing task "MIBPostProcessDependencyGraph". (TaskId:27)
+08:56:40.491     1>Done building target "ManagedIncrementalBuildPostProcessDependencyGraph" in project "WrapCPathfind.vcxproj".: (TargetId:50)
+08:56:40.491     1>Target "AfterClCompile: (TargetId:51)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ClCompile" depends on it):
+08:56:40.491     1>Done building target "AfterClCompile" in project "WrapCPathfind.vcxproj".: (TargetId:51)
+08:56:40.491     1>Target "_ClCompile: (TargetId:52)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildCompile" depends on it):
+08:56:40.491     1>Done building target "_ClCompile" in project "WrapCPathfind.vcxproj".: (TargetId:52)
+                   Target "_ResGen" skipped, due to false condition; ('@(EmbeddedResource)'!='') was evaluated as (''!='').
+08:56:40.491     1>Target "BeforeResourceCompile: (TargetId:53)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ResourceCompile" depends on it):
+08:56:40.491     1>Done building target "BeforeResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:53)
+08:56:40.491     1>Target "MakeDirsForResourceCompile: (TargetId:54)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ResourceCompile" depends on it):
+                   Task "MakeDir" (TaskId:28)
+                   Done executing task "MakeDir". (TaskId:28)
+08:56:40.491     1>Done building target "MakeDirsForResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:54)
+                   Target "_SelectedFiles" skipped. Previously built successfully.
+                   Target "SelectCustomBuild" skipped. Previously built successfully.
+08:56:40.491     1>Target "SelectResourceCompile: (TargetId:55)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ResourceCompile" depends on it):
+08:56:40.491     1>Done building target "SelectResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:55)
+08:56:40.491     1>Target "ResourceCompile: (TargetId:56)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ResourceCompile" depends on it):
+                   Using "RC" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "RC" (TaskId:29)
+                     Write Tracking Logs: (TaskId:29)
+                     	Debug\rc.write.1.tlog (TaskId:29)
+                     Read Tracking Logs: (TaskId:29)
+                     	Debug\rc.read.1.tlog (TaskId:29)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\APP.RC: (TaskId:29)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\APP.RES (TaskId:29)
+                     All outputs are up-to-date. (TaskId:29)
+                   Done executing task "RC". (TaskId:29)
+08:56:40.491     1>Done building target "ResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:56)
+08:56:40.491     1>Target "AfterResourceCompile: (TargetId:57)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_ResourceCompile" depends on it):
+08:56:40.491     1>Done building target "AfterResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:57)
+08:56:40.491     1>Target "_ResourceCompile: (TargetId:58)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildCompile" depends on it):
+08:56:40.491     1>Done building target "_ResourceCompile" in project "WrapCPathfind.vcxproj".: (TargetId:58)
+                   Target "_ImpLib" skipped, due to false condition; ('$(ImpLibCompiled)' == 'true') was evaluated as ('' == 'true').
+                   Target "_Lib" skipped, due to false condition; ('$(LibCompiled)' == 'true') was evaluated as ('' == 'true').
+08:56:40.491     1>Target "AfterBuildCompileEvent: (TargetId:59)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildCompile" depends on it):
+08:56:40.491     1>Done building target "AfterBuildCompileEvent" in project "WrapCPathfind.vcxproj".: (TargetId:59)
+08:56:40.491     1>Target "BuildCompile: (TargetId:60)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.491     1>Done building target "BuildCompile" in project "WrapCPathfind.vcxproj".: (TargetId:60)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:40.491     1>Target "BuildLinkTraverse: (TargetId:61)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '..\NativeCCode\NativeCCode.vcxproj' != '' and '..\NativeCCode\NativeCCode.vcxproj' != ''  and 'true' == 'true').
+08:56:40.491     1>Done building target "BuildLinkTraverse" in project "WrapCPathfind.vcxproj".: (TargetId:61)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.491     1>Target "BeforeLink: (TargetId:62)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.491     1>Done building target "BeforeLink" in project "WrapCPathfind.vcxproj".: (TargetId:62)
+08:56:40.491     1>Target "ComputeRCOutputs: (TargetId:63)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ComputeRCGeneratedLinkInputs" depends on it):
+08:56:40.491     1>Done building target "ComputeRCOutputs" in project "WrapCPathfind.vcxproj".: (TargetId:63)
+08:56:40.491     1>Target "ComputeRCGeneratedLinkInputs: (TargetId:64)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.491     1>Done building target "ComputeRCGeneratedLinkInputs" in project "WrapCPathfind.vcxproj".: (TargetId:64)
+08:56:40.491     1>Target "ComputeManifestGeneratedLinkerInputs: (TargetId:65)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.491     1>Done building target "ComputeManifestGeneratedLinkerInputs" in project "WrapCPathfind.vcxproj".: (TargetId:65)
+08:56:40.491     1>Target "ComputeCustomBuildOutput: (TargetId:66)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Task "MakeDir" (TaskId:30)
+                   Done executing task "MakeDir". (TaskId:30)
+08:56:40.491     1>Done building target "ComputeCustomBuildOutput" in project "WrapCPathfind.vcxproj".: (TargetId:66)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+                   Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+                   Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+08:56:40.491     1>Target "ComputeCLOutputs: (TargetId:67)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ComputeCLGeneratedLinkInputs" depends on it):
+08:56:40.491     1>Done building target "ComputeCLOutputs" in project "WrapCPathfind.vcxproj".: (TargetId:67)
+08:56:40.491     1>Target "ComputeCLGeneratedLinkInputs: (TargetId:68)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.491     1>Done building target "ComputeCLGeneratedLinkInputs" in project "WrapCPathfind.vcxproj".: (TargetId:68)
+08:56:40.491     1>Target "ComputeLinkInputsFromProject: (TargetId:69)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.491     1>Done building target "ComputeLinkInputsFromProject" in project "WrapCPathfind.vcxproj".: (TargetId:69)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.491     1>Target "ResolvedLinkLib: (TargetId:70)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ComputeReferenceLinkInputs" depends on it):
+                   Task "MSBuild" (TaskId:31)
+                     Global Properties: (TaskId:31)
+                       Configuration=Debug (TaskId:31)
+                       Platform=Win32 (TaskId:31)
+08:56:40.335     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (1) is building "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (2:3) on node 2 (GetResolvedLinkLibs target(s)).
+08:56:40.491   2:3>Building with tools version "4.0".
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+08:56:40.491   2:3>Target "SetBuildDefaultEnvironmentVariables: (TargetId:71)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.Cpp.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetResolvedLinkLibs" depends on it):
+                   Using "SetEnv" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "SetEnv" (TaskId:32)
+                     PATH=C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\;C:\WINDOWS\SysWow64;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\ImageMagick-6.9.0-Q16;C:\Program Files\Microsoft HPC Pack 2008 R2\Bin\;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\compiler\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\SIMULIA\Abaqus6.14\Commands;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2010b\runtime\win64;C:\Program Files\MATLAB\R2010b\bin;C:\Program Files\Git\cmd;C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin;C:\Program Files\OpenCV2.1\vs2010\bin;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Cocos\tools\Python27;C:\Users\luozhihua\AppData\Local\Code\bin; (TaskId:32)
+                   Done executing task "SetEnv". (TaskId:32)
+                   Task "SetEnv" skipped, due to false condition; ('$(_IsNativeEnvironment)' == 'true') was evaluated as ('' == 'true').
+                   Task "SetEnv" (TaskId:33)
+                     LIB=C:\Program Files (x86)\emgucv2.1.0.793\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\lib (TaskId:33)
+                   Done executing task "SetEnv". (TaskId:33)
+                   Task "SetEnv" (TaskId:34)
+                     LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:34)
+                   Done executing task "SetEnv". (TaskId:34)
+                   Task "SetEnv" (TaskId:35)
+                     INCLUDE=C:\Program Files (x86)\emgucv2.1.0.793\opencv\include\opencv;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include; (TaskId:35)
+                   Done executing task "SetEnv". (TaskId:35)
+08:56:40.491   2:3>Done building target "SetBuildDefaultEnvironmentVariables" in project "NativeCCode.vcxproj".: (TargetId:71)
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+08:56:40.491   2:3>Target "PlatformPrepareForBuild: (TargetId:72)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "PrepareForBuild" depends on it):
+                   Task "VCMessage" skipped, due to false condition; (!(exists('$(VCTargetsPath)\Platforms\Win32\PlatformToolsets\$(PlatformToolset)\Microsoft.Cpp.Win32.$(PlatformToolset).targets'))) was evaluated as (!(exists('C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\\Platforms\Win32\PlatformToolsets\v100\Microsoft.Cpp.Win32.v100.targets'))).
+08:56:40.491   2:3>Done building target "PlatformPrepareForBuild" in project "NativeCCode.vcxproj".: (TargetId:72)
+08:56:40.491   2:3>Target "GetFrameworkPaths: (TargetId:73)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.NETFramework.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "PrepareForBuild" depends on it):
+08:56:40.491   2:3>Done building target "GetFrameworkPaths" in project "NativeCCode.vcxproj".: (TargetId:73)
+                   Target "GetWinFXPath" skipped, due to false condition; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) was evaluated as (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+08:56:40.491   2:3>Target "GetReferenceAssemblyPaths: (TargetId:74)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "PrepareForBuild" depends on it):
+                   Task "GetReferenceAssemblyPaths" skipped, due to false condition; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) was evaluated as ('.NETFramework,Version=v4.0' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')).
+08:56:40.491   2:3>Done building target "GetReferenceAssemblyPaths" in project "NativeCCode.vcxproj".: (TargetId:74)
+08:56:40.491   2:3>Target "PrepareForBuild: (TargetId:75)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetResolvedLinkLibs" depends on it):
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(ConfigurationPlatformExists)' != 'true') was evaluated as (''!='true' and 'true' != 'true').
+                   Task "MakeDir" (TaskId:36)
+                   Done executing task "MakeDir". (TaskId:36)
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and ($(TargetFrameworkVersion)=='v3.5' or $(TargetFrameworkVersion)=='v3.0' or $(TargetFrameworkVersion)=='v2.0' )) was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and (v4.0=='v3.5' or v4.0=='v3.0' or v4.0=='v2.0' )).
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and 'v100'=='v90').
+                   Task "VCMessage" skipped, due to false condition; ('$(VCInstallDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(IntDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "VCMessage" skipped, due to false condition; ('$(OutDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "MakeDir" (TaskId:37)
+                   Done executing task "MakeDir". (TaskId:37)
+08:56:40.491   2:3>Done building target "PrepareForBuild" in project "NativeCCode.vcxproj".: (TargetId:75)
+08:56:40.491   2:3>Target "BeforeResolveReferences: (TargetId:76)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+08:56:40.491   2:3>Done building target "BeforeResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:76)
+08:56:40.491   2:3>Target "AssignProjectConfiguration: (TargetId:77)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Task "AssignProjectConfiguration" (TaskId:38)
+                   Done executing task "AssignProjectConfiguration". (TaskId:38)
+08:56:40.507   2:3>Done building target "AssignProjectConfiguration" in project "NativeCCode.vcxproj".: (TargetId:77)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+08:56:40.507   2:3>Target "_SplitProjectReferencesByFileExistence: (TargetId:78)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveProjectReferences" depends on it):
+                   Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+08:56:40.507   2:3>Done building target "_SplitProjectReferencesByFileExistence" in project "NativeCCode.vcxproj".: (TargetId:78)
+                   Target "_RemoveNameMetadataFromProjectReferenceItems" skipped, due to false condition; ('@(ProjectReference)'!='') was evaluated as (''!='').
+08:56:40.507   2:3>Target "ResolveProjectReferences: (TargetId:79)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'false' != 'true') and '10.0' != '10.0' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' == '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'false' != 'true') and '10.0' == '10.0' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' != 'true' and 'false' == 'true' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+                   Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('' != '' and '' != '').
+08:56:40.507   2:3>Done building target "ResolveProjectReferences" in project "NativeCCode.vcxproj".: (TargetId:79)
+                   Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+                   Target "GetFrameworkPaths" skipped. Previously built successfully.
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+08:56:40.507   2:3>Target "GetInstalledSDKLocations: (TargetId:80)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveSDKReferences" depends on it):
+                   Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+08:56:40.507   2:3>Done building target "GetInstalledSDKLocations" in project "NativeCCode.vcxproj".: (TargetId:80)
+08:56:40.507   2:3>Target "ResolveSDKReferences: (TargetId:81)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+08:56:40.507   2:3>Done building target "ResolveSDKReferences" in project "NativeCCode.vcxproj".: (TargetId:81)
+                   Target "ResolveSDKReferences" skipped. Previously built successfully.
+08:56:40.507   2:3>Target "ExpandSDKReferences: (TargetId:82)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+08:56:40.507   2:3>Done building target "ExpandSDKReferences" in project "NativeCCode.vcxproj".: (TargetId:82)
+08:56:40.507   2:3>Target "ResolveAssemblyReferences: (TargetId:83)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Task "ResolveAssemblyReference" (TaskId:39)
+                     TargetFrameworkMoniker: (TaskId:39)
+                         .NETFramework,Version=v4.0 (TaskId:39)
+                     TargetFrameworkMonikerDisplayName: (TaskId:39)
+                         .NET Framework 4 (TaskId:39)
+                     TargetedRuntimeVersion: (TaskId:39)
+                         v4.0.30319 (TaskId:39)
+                     Assemblies: (TaskId:39)
+                         System.Core (TaskId:39)
+                     AssemblyFiles: (TaskId:39)
+                     CandidateAssemblyFiles: (TaskId:39)
+                     TargetFrameworkDirectories: (TaskId:39)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:39)
+                     InstalledAssemblyTables: (TaskId:39)
+                     IgnoreInstalledAssemblyTable: (TaskId:39)
+                         False (TaskId:39)
+                     SearchPaths: (TaskId:39)
+                         {CandidateAssemblyFiles} (TaskId:39)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib (TaskId:39)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:39)
+                         {HintPathFromItem} (TaskId:39)
+                         {TargetFrameworkDirectory} (TaskId:39)
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx} (TaskId:39)
+                         {AssemblyFolders} (TaskId:39)
+                         {GAC} (TaskId:39)
+                         {RawFileName} (TaskId:39)
+                         C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\ (TaskId:39)
+                     AllowedAssemblyExtensions: (TaskId:39)
+                         .winmd (TaskId:39)
+                         .dll (TaskId:39)
+                         .exe (TaskId:39)
+                     AllowedRelatedFileExtensions: (TaskId:39)
+                         .pdb (TaskId:39)
+                         .xml (TaskId:39)
+                         .pri (TaskId:39)
+                     AppConfigFile: (TaskId:39)
+                          (TaskId:39)
+                     AutoUnify: (TaskId:39)
+                         True (TaskId:39)
+                     CopyLocalDependenciesWhenParentReferenceInGac: (TaskId:39)
+                         True (TaskId:39)
+                     FindDependencies: (TaskId:39)
+                         True (TaskId:39)
+                     TargetProcessorArchitecture: (TaskId:39)
+                         x86 (TaskId:39)
+                     StateFile: (TaskId:39)
+                         Debug\NativeCCode.vcxprojResolveAssemblyReference.cache (TaskId:39)
+                     InstalledAssemblySubsetTables: (TaskId:39)
+                     IgnoreInstalledAssemblySubsetTable: (TaskId:39)
+                         False (TaskId:39)
+                     TargetFrameworkSubsets: (TaskId:39)
+                     FullTargetFrameworkSubsetNames: (TaskId:39)
+                         Full (TaskId:39)
+                     ProfileName: (TaskId:39)
+                          (TaskId:39)
+                     FullFrameworkFolders: (TaskId:39)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:39)
+                     LatestTargetFrameworkDirectories: (TaskId:39)
+                     ProfileTablesLocation: (TaskId:39)
+                     Primary reference "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:39)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll". (TaskId:39)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:39)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.winmd", but it didn't exist. (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.dll", but it didn't exist. (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.exe", but it didn't exist. (TaskId:39)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.winmd", but it didn't exist. (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.dll", but it didn't exist. (TaskId:39)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.exe", but it didn't exist. (TaskId:39)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:39)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.winmd", but it didn't exist. (TaskId:39)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:39)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:39)
+                   Done executing task "ResolveAssemblyReference". (TaskId:39)
+08:56:40.507   2:3>Done building target "ResolveAssemblyReferences" in project "NativeCCode.vcxproj".: (TargetId:83)
+                   Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+08:56:40.507   2:3>Target "AfterResolveReferences: (TargetId:84)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+08:56:40.507   2:3>Done building target "AfterResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:84)
+                   Target "ImplicitlyExpandDesignTimeFacades" skipped, due to false condition; ('$(ImplicitlyExpandDesignTimeFacades)' == 'true') was evaluated as ('' == 'true').
+                   Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+08:56:40.507   2:3>Target "ResolveReferences: (TargetId:85)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetResolvedLinkLibs" depends on it):
+08:56:40.507   2:3>Done building target "ResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:85)
+08:56:40.507   2:3>Target "GetResolvedLinkLibs: (TargetId:86)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+08:56:40.507   2:3>Done building target "GetResolvedLinkLibs" in project "NativeCCode.vcxproj".: (TargetId:86)
+08:56:40.507   2:3>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (GetResolvedLinkLibs target(s)).
+08:56:40.507     1>Done executing task "MSBuild". (TaskId:31)
+08:56:40.507     1>Done building target "ResolvedLinkLib" in project "WrapCPathfind.vcxproj".: (TargetId:70)
+08:56:40.507     1>Target "ComputeResolveLinkObj: (TargetId:87)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "ComputeReferenceLinkInputs" depends on it):
+                   Task "CallTarget" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.UseLibraryDependencyInputs)'=='true') was evaluated as ('false'=='true').
+08:56:40.507     1>Done building target "ComputeResolveLinkObj" in project "WrapCPathfind.vcxproj".: (TargetId:87)
+08:56:40.507     1>Target "ComputeReferenceLinkInputs: (TargetId:88)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true') was evaluated as (''=='true').
+08:56:40.507     1>Done building target "ComputeReferenceLinkInputs" in project "WrapCPathfind.vcxproj".: (TargetId:88)
+08:56:40.507     1>Target "ComputeManifestInputsTargets: (TargetId:89)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.507     1>Done building target "ComputeManifestInputsTargets" in project "WrapCPathfind.vcxproj".: (TargetId:89)
+                   Target "ManifestResourceCompile" skipped, due to false condition; ('$(EmbedManifestBy)' == 'LINK') was evaluated as ('MT' == 'LINK').
+                   Target "AssignWinFXEmbeddedResource" skipped, due to false condition; ('@(WinFXEmbeddedResource)' != '') was evaluated as ('' != '').
+08:56:40.507     1>Target "AssignTargetPaths: (TargetId:90)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "PrepareResourceNames" depends on it):
+                   Using "AssignTargetPath" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignTargetPath" (TaskId:40)
+                   Done executing task "AssignTargetPath". (TaskId:40)
+                   Task "AssignTargetPath" (TaskId:41)
+                   Done executing task "AssignTargetPath". (TaskId:41)
+                   Task "AssignTargetPath" (TaskId:42)
+                   Done executing task "AssignTargetPath". (TaskId:42)
+                   Task "AssignTargetPath" (TaskId:43)
+                   Done executing task "AssignTargetPath". (TaskId:43)
+                   Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.ico'=='.manifest').
+                   Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.txt'=='.manifest').
+08:56:40.507     1>Done building target "AssignTargetPaths" in project "WrapCPathfind.vcxproj".: (TargetId:90)
+                   Target "AssignTargetPaths" skipped. Previously built successfully.
+08:56:40.507     1>Target "SplitResourcesByCulture: (TargetId:91)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "PrepareResourceNames" depends on it):
+                   Task "Warning" skipped, due to false condition; ('@(ResxWithNoCulture)'!='') was evaluated as (''!='').
+                   Task "Warning" skipped, due to false condition; ('@(ResxWithCulture)'!='') was evaluated as (''!='').
+                   Task "Warning" skipped, due to false condition; ('@(NonResxWithCulture)'!='') was evaluated as (''!='').
+                   Task "Warning" skipped, due to false condition; ('@(NonResxWithNoCulture)'!='') was evaluated as (''!='').
+                   Using "AssignCulture" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignCulture" (TaskId:44)
+                   Done executing task "AssignCulture". (TaskId:44)
+08:56:40.507     1>Done building target "SplitResourcesByCulture" in project "WrapCPathfind.vcxproj".: (TargetId:91)
+                   Target "CreateManifestResourceNames" skipped, due to false condition; ('@(EmbeddedResource)' != '') was evaluated as ('' != '').
+08:56:40.507     1>Target "CreateCustomManifestResourceNames: (TargetId:92)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "PrepareResourceNames" depends on it):
+08:56:40.507     1>Done building target "CreateCustomManifestResourceNames" in project "WrapCPathfind.vcxproj".: (TargetId:92)
+08:56:40.507     1>Target "PrepareResourceNames: (TargetId:93)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.507     1>Done building target "PrepareResourceNames" in project "WrapCPathfind.vcxproj".: (TargetId:93)
+08:56:40.507     1>Target "MakeDirsForLink: (TargetId:94)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Task "MakeDir" (TaskId:45)
+                   Done executing task "MakeDir". (TaskId:45)
+08:56:40.507     1>Done building target "MakeDirsForLink" in project "WrapCPathfind.vcxproj".: (TargetId:94)
+08:56:40.507     1>Target "DoLinkOutputFilesMatch: (TargetId:95)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))') was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll' != 'C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll').
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLink.Extension)' != '$(TargetExt)') was evaluated as ('.dll' != '.dll').
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLink.Filename)' != '$(TargetName)') was evaluated as ('WrapCPathfind' != 'WrapCPathfind').
+08:56:40.507     1>Done building target "DoLinkOutputFilesMatch" in project "WrapCPathfind.vcxproj".: (TargetId:95)
+08:56:40.507     1>Target "PreLinkEvent: (TargetId:96)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PreLinkEvent.Command)' != '') was evaluated as ('' != '').
+08:56:40.507     1>Done building target "PreLinkEvent" in project "WrapCPathfind.vcxproj".: (TargetId:96)
+08:56:40.507     1>Target "Link: (TargetId:97)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Using "Link" task from assembly "Microsoft.Build.CppTasks.Win32, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Link" (TaskId:46)
+                     Write Tracking Logs: (TaskId:46)
+                     	Debug\link.write.1.tlog (TaskId:46)
+                     	Debug\link.17624-cvtres.write.1.tlog (TaskId:46)
+                     	Debug\link.17624.write.1.tlog (TaskId:46)
+                     	Debug\link.17624-cvtres.write.1.tlog (TaskId:46)
+                     Read Tracking Logs: (TaskId:46)
+                     	Debug\link.read.1.tlog (TaskId:46)
+                     	Debug\link.17624-cvtres.read.1.tlog (TaskId:46)
+                     	Debug\link.17624.read.1.tlog (TaskId:46)
+                     	Debug\link.17624-cvtres.read.1.tlog (TaskId:46)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\DEBUG\NATIVECCODE.LIB|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\.NETFRAMEWORK,VERSION=V4.0.ASSEMBLYATTRIBUTES.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\APP.RES|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\ASSEMBLYINFO.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\STDAFX.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\WRAPCPATHFIND.OBJ: (TaskId:46)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\DEBUG\WRAPCPATHFIND.ILK (TaskId:46)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\DEBUG\WRAPCPATHFIND.DLL (TaskId:46)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\WRAPCPATHFIND\DEBUG\WRAPCPATHFIND.DLL.INTERMEDIATE.MANIFEST (TaskId:46)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\DEBUG\WRAPCPATHFIND.PDB (TaskId:46)
+                     All outputs are up-to-date. (TaskId:46)
+                   Done executing task "Link". (TaskId:46)
+                   Task "Message" (TaskId:47)
+                     WrapCPathfind.vcxproj -> C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll (TaskId:47)
+                   Done executing task "Message". (TaskId:47)
+08:56:40.523     1>Done building target "Link" in project "WrapCPathfind.vcxproj".: (TargetId:97)
+08:56:40.523     1>Target "_DetermineManagedStateForLink: (TargetId:98)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.523     1>Done building target "_DetermineManagedStateForLink" in project "WrapCPathfind.vcxproj".: (TargetId:98)
+08:56:40.523     1>Target "ComputeMetaGenInputs: (TargetId:99)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "MetaGenInputsOutputs" depends on it):
+                   Task "Delete" skipped, due to false condition; ('$(OutputAssemblyMetagenFile)' != '' and '$(ConsumeAnyMetaAssembly)' == 'false' and Exists('$(OutputAssemblyMetagenFile)')) was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll.metagen' != '' and 'true' == 'false' and Exists('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll.metagen')).
+08:56:40.523     1>Done building target "ComputeMetaGenInputs" in project "WrapCPathfind.vcxproj".: (TargetId:99)
+08:56:40.523     1>Target "MetaGenInputsOutputs: (TargetId:100)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MetaGen.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.523     1>Done building target "MetaGenInputsOutputs" in project "WrapCPathfind.vcxproj".: (TargetId:100)
+08:56:40.523     1>Target "MetaGen: (TargetId:101)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.MetaGen.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+                   Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+                   Input files: C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\WrapCPathfind.dll
+                   Output files: Debug\\metagen.write.1.tlog
+08:56:40.523     1>Done building target "MetaGen" in project "WrapCPathfind.vcxproj".: (TargetId:101)
+                   Target "ComputeLinkImportLibraryOutputsForClean" skipped, due to false condition; ('$(LinkSkippedExecution)' != 'true') was evaluated as ('True' != 'true').
+08:56:40.523     1>Target "AfterLink: (TargetId:102)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Link" depends on it):
+08:56:40.523     1>Done building target "AfterLink" in project "WrapCPathfind.vcxproj".: (TargetId:102)
+08:56:40.523     1>Target "_Link: (TargetId:103)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_Link" in project "WrapCPathfind.vcxproj".: (TargetId:103)
+08:56:40.523     1>Target "_ALink: (TargetId:104)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_ALink" in project "WrapCPathfind.vcxproj".: (TargetId:104)
+                   Target "ComputeManifestInputsTargets" skipped. Previously built successfully.
+08:56:40.523     1>Target "MakeDirsForManifest: (TargetId:105)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Manifest" depends on it):
+                   Task "MakeDir" (TaskId:48)
+                   Done executing task "MakeDir". (TaskId:48)
+08:56:40.523     1>Done building target "MakeDirsForManifest" in project "WrapCPathfind.vcxproj".: (TargetId:105)
+08:56:40.523     1>Target "Manifest: (TargetId:106)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_Manifest" depends on it):
+                   Task "Delete" skipped, due to false condition; (('$(BuildType)' != 'Build' or '$(ForceRebuild)' == 'true') and '$(EmbedManifestby)'=='LINK') was evaluated as (('Build' != 'Build' or '' == 'true') and 'MT'=='LINK').
+                   Using "Mt" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Mt" (TaskId:49)
+                   Done executing task "Mt". (TaskId:49)
+                   Task "RC" skipped, due to false condition; ('$(EmbedManifestby)'=='LINK') was evaluated as ('MT'=='LINK').
+08:56:40.523     1>Done building target "Manifest" in project "WrapCPathfind.vcxproj".: (TargetId:106)
+                   Target "ComputeManifestGeneratedLinkerInputs" skipped. Previously built successfully.
+08:56:40.523     1>Target "_Manifest: (TargetId:107)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_Manifest" in project "WrapCPathfind.vcxproj".: (TargetId:107)
+                   Target "RegisterOutput" skipped, due to false condition; ('$(EmbedManifest)'=='true' and '$(LinkSkippedExecution)' != 'true') was evaluated as ('true'=='true' and 'True' != 'true').
+08:56:40.523     1>Target "ComputeCLCompileGeneratedXDCFiles: (TargetId:108)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_XdcMake" depends on it):
+08:56:40.523     1>Done building target "ComputeCLCompileGeneratedXDCFiles" in project "WrapCPathfind.vcxproj".: (TargetId:108)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:40.523     1>Target "ResolvedXDCMake: (TargetId:109)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_XdcMake" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '$(_ClCompileGenerateXMLDocumentationFiles)' == 'true') was evaluated as ('.vcxproj' == '.vcxproj' and '..\NativeCCode\NativeCCode.vcxproj' != '' and '..\NativeCCode\NativeCCode.vcxproj' != '' and '' == 'true').
+08:56:40.523     1>Done building target "ResolvedXDCMake" in project "WrapCPathfind.vcxproj".: (TargetId:109)
+08:56:40.523     1>Target "MakeDirsForXdcMake: (TargetId:110)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_XdcMake" depends on it):
+                   Task "MakeDir" (TaskId:50)
+                   Done executing task "MakeDir". (TaskId:50)
+08:56:40.523     1>Done building target "MakeDirsForXdcMake" in project "WrapCPathfind.vcxproj".: (TargetId:110)
+                   Target "XdcMake" skipped, due to false condition; ('@(XdcMake)' != '') was evaluated as ('' != '').
+08:56:40.523     1>Target "_XdcMake: (TargetId:111)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_XdcMake" in project "WrapCPathfind.vcxproj".: (TargetId:111)
+08:56:40.523     1>Target "ComputeCLCompileGeneratedSbrFiles: (TargetId:112)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_BscMake" depends on it):
+08:56:40.523     1>Done building target "ComputeCLCompileGeneratedSbrFiles" in project "WrapCPathfind.vcxproj".: (TargetId:112)
+08:56:40.523     1>Target "MakeDirsForBscMake: (TargetId:113)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_BscMake" depends on it):
+                   Task "MakeDir" (TaskId:51)
+                   Done executing task "MakeDir". (TaskId:51)
+08:56:40.523     1>Done building target "MakeDirsForBscMake" in project "WrapCPathfind.vcxproj".: (TargetId:113)
+                   Target "BscMake" skipped, due to false condition; ('@(BscMake)' != '') was evaluated as ('' != '').
+                   Target "CustomBuildStep" skipped, due to false condition; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') was evaluated as ('' != '' and ''=='').
+08:56:40.523     1>Target "_BscMake: (TargetId:114)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_BscMake" in project "WrapCPathfind.vcxproj".: (TargetId:114)
+08:56:40.523     1>Target "_GenerateSatelliteAssemblyInputs: (TargetId:115)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "CreateSatelliteAssemblies" depends on it):
+                   Task "Warning" skipped, due to false condition; ('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+                   Task "Warning" skipped, due to false condition; ('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+08:56:40.523     1>Done building target "_GenerateSatelliteAssemblyInputs" in project "WrapCPathfind.vcxproj".: (TargetId:115)
+                   Target "ComputeIntermediateSatelliteAssemblies" skipped, due to false condition; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') was evaluated as ( != '').
+                   Target "GenerateSatelliteAssemblies" skipped, due to false condition; ('@(_SatelliteAssemblyResourceInputs)' != '') was evaluated as ('' != '').
+08:56:40.523     1>Target "CreateSatelliteAssemblies: (TargetId:116)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "CreateSatelliteAssemblies" in project "WrapCPathfind.vcxproj".: (TargetId:116)
+08:56:40.523     1>Target "_Appverifier: (TargetId:117)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_Appverifier" in project "WrapCPathfind.vcxproj".: (TargetId:117)
+08:56:40.523     1>Target "_Deploy: (TargetId:118)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+08:56:40.523     1>Done building target "_Deploy" in project "WrapCPathfind.vcxproj".: (TargetId:118)
+                   Target "ComputeIntermediateSatelliteAssemblies" skipped, due to false condition; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') was evaluated as ( != '').
+08:56:40.523     1>Target "_CopyFilesMarkedCopyLocal: (TargetId:119)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+                   Using "Copy" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Copy" (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.dll" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.CV.dll" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.dll" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.CV.UI.dll" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.dll" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.Util.dll" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\ZedGraph.dll" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\ZedGraph.dll" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\zlib.net.dll" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\zlib.net.dll" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.xml" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.CV.xml" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.CV.UI.xml" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.CV.UI.xml" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                     Did not copy from file "C:\Program Files (x86)\emgucv2.1.0.793\bin\Emgu.Util.xml" to file "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Debug\Emgu.Util.xml" because the "SkipUnchangedFiles" parameter was set to "true" in the project and the files' sizes and timestamps match. (TaskId:52)
+                   Done executing task "Copy". (TaskId:52)
+08:56:40.538     1>Done building target "_CopyFilesMarkedCopyLocal" in project "WrapCPathfind.vcxproj".: (TargetId:119)
+                   Target "AssignTargetPaths" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:40.538     1>Target "GetCopyToOutputDirectoryXamlAppDefs: (TargetId:120)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+                   Task "AssignTargetPath" (TaskId:53)
+                   Done executing task "AssignTargetPath". (TaskId:53)
+08:56:40.538     1>Done building target "GetCopyToOutputDirectoryXamlAppDefs" in project "WrapCPathfind.vcxproj".: (TargetId:120)
+08:56:40.538     1>Target "GetCopyToOutputDirectoryItems: (TargetId:121)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "_CopySourceItemsToOutputDirectory" depends on it):
+                   Task "MSBuild" (TaskId:54)
+                     Global Properties: (TaskId:54)
+                       Configuration=Debug (TaskId:54)
+                       Platform=Win32 (TaskId:54)
+08:56:40.335     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (1) is building "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (2:4) on node 2 (GetCopyToOutputDirectoryItems target(s)).
+08:56:40.538   2:4>Building with tools version "4.0".
+                   Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+08:56:40.538   2:4>Target "AssignTargetPaths: (TargetId:122)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+                   Task "AssignTargetPath" (TaskId:55)
+                   Done executing task "AssignTargetPath". (TaskId:55)
+                   Task "AssignTargetPath" (TaskId:56)
+                   Done executing task "AssignTargetPath". (TaskId:56)
+                   Task "AssignTargetPath" (TaskId:57)
+                   Done executing task "AssignTargetPath". (TaskId:57)
+                   Task "AssignTargetPath" (TaskId:58)
+                   Done executing task "AssignTargetPath". (TaskId:58)
+                   Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.txt'=='.manifest').
+08:56:40.538   2:4>Done building target "AssignTargetPaths" in project "NativeCCode.vcxproj".: (TargetId:122)
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:40.538   2:4>Target "GetCopyToOutputDirectoryXamlAppDefs: (TargetId:123)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+                   Task "AssignTargetPath" (TaskId:59)
+                   Done executing task "AssignTargetPath". (TaskId:59)
+08:56:40.538   2:4>Done building target "GetCopyToOutputDirectoryXamlAppDefs" in project "NativeCCode.vcxproj".: (TargetId:123)
+08:56:40.538   2:4>Target "GetCopyToOutputDirectoryItems: (TargetId:124)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+                   Task "MSBuild" skipped, due to false condition; ('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true') was evaluated as ('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true').
+                   Task "AssignTargetPath" (TaskId:60)
+                   Done executing task "AssignTargetPath". (TaskId:60)
+08:56:40.538   2:4>Done building target "GetCopyToOutputDirectoryItems" in project "NativeCCode.vcxproj".: (TargetId:124)
+08:56:40.538   2:4>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (GetCopyToOutputDirectoryItems target(s)).
+08:56:40.538     1>Done executing task "MSBuild". (TaskId:54)
+                   Task "AssignTargetPath" (TaskId:61)
+                   Done executing task "AssignTargetPath". (TaskId:61)
+08:56:40.538     1>Done building target "GetCopyToOutputDirectoryItems" in project "WrapCPathfind.vcxproj".: (TargetId:121)
+                   Target "_CopyOutOfDateSourceItemsToOutputDirectory" skipped, due to false condition; ( '@(_SourceItemsToCopyToOutputDirectory)' != '' ) was evaluated as ( '' != '' ).
+                   Target "_CopyOutOfDateSourceItemsToOutputDirectoryAlways" skipped, due to false condition; ( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' ) was evaluated as ( '' != '' ).
+08:56:40.538     1>Target "_CopySourceItemsToOutputDirectory: (TargetId:125)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+08:56:40.538     1>Done building target "_CopySourceItemsToOutputDirectory" in project "WrapCPathfind.vcxproj".: (TargetId:125)
+                   Target "_CopyAppConfigFile" skipped, due to false condition; ( '@(AppConfigWithTargetPath)' != '' ) was evaluated as ( '' != '' ).
+                   Target "_CopyManifestFiles" skipped, due to false condition; ( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' ) was evaluated as ( ''=='true' or ''=='true' ).
+08:56:40.538     1>Target "_CheckForCompileOutputs: (TargetId:126)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+08:56:40.538     1>Done building target "_CheckForCompileOutputs" in project "WrapCPathfind.vcxproj".: (TargetId:126)
+                   Target "_SGenCheckForOutputs" skipped, due to false condition; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')) was evaluated as ('Off' == 'On' or (''!='' and 'Off' == 'Auto')).
+08:56:40.538     1>Target "CopyFilesToOutputDirectory: (TargetId:127)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+                   Task "Copy" skipped, due to false condition; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true') was evaluated as ('true' == 'true' and 'true' != 'true').
+                   Task "Message" skipped, due to false condition; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)'!='true') was evaluated as ('true' == 'true' and 'true'!='true').
+                   Task "Copy" skipped, due to false condition; ('@(AddModules)' != '') was evaluated as ('' != '').
+                   Task "Copy" skipped, due to false condition; ('$(_SGenDllCreated)'=='true') was evaluated as ('false'=='true').
+                   Task "Copy" skipped, due to false condition; ('$(_DebugSymbolsProduced)'=='true' and '$(SkipCopyingSymbolsToOutputDirectory)' != 'true' and '$(CopyOutputSymbolsToOutputDirectory)'=='true') was evaluated as ('false'=='true' and '' != 'true' and 'true'=='true').
+                   Task "Copy" skipped, due to false condition; ('$(_DocumentationFileProduced)'=='true') was evaluated as ('false'=='true').
+                   Task "Copy" skipped, due to false condition; ('@(IntermediateSatelliteAssembliesWithTargetPath)' != '') was evaluated as ('' != '').
+                   Task "Copy" skipped, due to false condition; ('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' ) was evaluated as ('' != '' or '' != '' or '' != '' or '' != '' ).
+                   Task "Copy" skipped, due to false condition; ('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != '') was evaluated as ('' != 'true' and '' != '').
+                   Task "Message" skipped, due to false condition; ('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != '') was evaluated as ('' != 'true' and '' != '').
+08:56:40.538     1>Done building target "CopyFilesToOutputDirectory" in project "WrapCPathfind.vcxproj".: (TargetId:127)
+                   Target "CustomBuildStep" skipped, due to false condition; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') was evaluated as ('' != '' and ''=='').
+08:56:40.538     1>Target "PostBuildEvent: (TargetId:128)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "BuildLink" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PostBuildEvent.Message)' != '' and '%(PostBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PostBuildEvent.Command)' != '') was evaluated as ('' != '').
+08:56:40.538     1>Done building target "PostBuildEvent" in project "WrapCPathfind.vcxproj".: (TargetId:128)
+08:56:40.538     1>Target "BuildLink: (TargetId:129)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.538     1>Done building target "BuildLink" in project "WrapCPathfind.vcxproj".: (TargetId:129)
+08:56:40.538     1>Target "AfterBuild: (TargetId:130)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+08:56:40.538     1>Done building target "AfterBuild" in project "WrapCPathfind.vcxproj".: (TargetId:130)
+08:56:40.538     1>Target "FinalizeBuildStatus: (TargetId:131)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (target "Build" depends on it):
+                   Using "Delete" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Delete" (TaskId:62)
+                     Deleting file "Debug\WrapCPathfind.unsuccessfulbuild". (TaskId:62)
+                   Done executing task "Delete". (TaskId:62)
+                   Task "Touch" (TaskId:63)
+                     Touching "Debug\WrapCPathfind.lastbuildstate". (TaskId:63)
+                   Done executing task "Touch". (TaskId:63)
+08:56:40.538     1>Done building target "FinalizeBuildStatus" in project "WrapCPathfind.vcxproj".: (TargetId:131)
+08:56:40.538     1>Target "Build: (TargetId:132)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (entry point):
+08:56:40.538     1>Done building target "Build" in project "WrapCPathfind.vcxproj".: (TargetId:132)
+08:56:40.538     1>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj" (build target(s)).
+
+Project Performance Summary:
+       31 ms  C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj   4 calls
+                 16 ms  GetTargetPath                              1 calls
+                  0 ms  GetNativeManifest                          1 calls
+                 16 ms  GetResolvedLinkLibs                        1 calls
+                  0 ms  GetCopyToOutputDirectoryItems              1 calls
+      203 ms  C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\WrapCPathfind\WrapCPathfind.vcxproj   1 calls
+                203 ms  build                                      1 calls
+
+Target Performance Summary:
+        0 ms  SelectClCompile                            1 calls
+        0 ms  ResolveReferences                          2 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ResourceCompile                            1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        2 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  SelectResourceCompile                      1 calls
+        0 ms  MakeDirsForManifest                        1 calls
+        0 ms  CopyFilesToOutputDirectory                 1 calls
+        0 ms  MakeDirsForCl                              1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  ExpandSDKReferences                        2 calls
+        0 ms  _RemoveNameMetadataFromProjectReferenceItems   1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        2 calls
+        0 ms  _GenerateXMLData                           1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  GetReferenceAssemblyPaths                  2 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  _DetermineManagedStateForLink              1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  ComputeResolveLinkObj                      1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeReferenceLinkInputs                 1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  GetTargetPath                              1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  GetFrameworkPaths                          2 calls
+        0 ms  _DetermineManagedStateFromCL               2 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  GetInstalledSDKLocations                   2 calls
+        0 ms  _Link                                      1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  FinalizeBuildStatus                        1 calls
+        0 ms  Manifest                                   1 calls
+        0 ms  Build                                      1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  MetaGen                                    1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  BeforeResolveReferences                    2 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  ComputeMetaGenInputs                       1 calls
+        0 ms  AfterResolveReferences                     2 calls
+        0 ms  ComputeCLOutputs                           1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     2 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  InitializeBuildStatus                      1 calls
+        0 ms  GetNativeManifest                          1 calls
+        0 ms  AssignTargetPaths                          2 calls
+        0 ms  ResolveSDKReferences                       2 calls
+        0 ms  MetaGenInputsOutputs                       1 calls
+        0 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  SplitResourcesByCulture                    1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  GetCopyToOutputDirectoryItems              2 calls
+        0 ms  MakeDirsForLink                            1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  PrepareForBuild                            2 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _GenerateWebServiceProxy                   1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  GetResolvedLinkLibs                        1 calls
+        0 ms  GenerateTargetFrameworkMonikerAttribute    1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  PlatformPrepareForBuild                    2 calls
+        0 ms  ResolvedXDCMake                            1 calls
+       16 ms  Link                                       1 calls
+       16 ms  ResolveProjectReferences                   2 calls
+       16 ms  ManagedIncrementalBuildPreProcessDependencyGraph   1 calls
+       16 ms  ResolvedLinkLib                            1 calls
+       16 ms  ManagedIncrementalBuildPostProcessDependencyGraph   1 calls
+       16 ms  _CopyFilesMarkedCopyLocal                  1 calls
+       31 ms  _CheckForInvalidConfigurationAndPlatform   2 calls
+       31 ms  ClCompile                                  1 calls
+       31 ms  AssignProjectConfiguration                 2 calls
+       47 ms  ResolveAssemblyReferences                  2 calls
+
+Task Performance Summary:
+        0 ms  ReadLinesFromFile                          1 calls
+        0 ms  SetEnv                                     8 calls
+        0 ms  Touch                                      2 calls
+        0 ms  Delete                                     1 calls
+        0 ms  AssignCulture                              1 calls
+        0 ms  RC                                         1 calls
+        0 ms  Mt                                         1 calls
+        0 ms  AssignTargetPath                          12 calls
+        0 ms  ResolveNonMSBuildProjectOutput             1 calls
+        0 ms  MakeDir                                   12 calls
+        0 ms  WriteLinesToFile                           2 calls
+       16 ms  Message                                    5 calls
+       16 ms  CL                                         3 calls
+       16 ms  Link                                       1 calls
+       16 ms  MIBPreProcessDependencyGraph               1 calls
+       16 ms  Copy                                       1 calls
+       16 ms  MIBPostProcessDependencyGraph              1 calls
+       31 ms  MSBuild                                    4 calls
+       31 ms  AssignProjectConfiguration                 2 calls
+       47 ms  ResolveAssemblyReference                   2 calls
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20

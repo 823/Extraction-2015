@@ -1,0 +1,15 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="ImageProWPF.PrograminfoBox"
+        Title="Software info"  Height="181" Width="555" WindowStyle="ToolWindow">
+    <Grid Background="#FFF0F0F0">
+        <StackPanel Margin="21,12,12,12">
+            <TextBlock Height="28" TextAlignment="Center" Text="Crack Extraction and Analysis Application "/>
+            <TextBlock Height="28" TextAlignment="Center" Text="Version 2.0 for Windows"/>
+            <TextBlock Height="28" TextAlignment="Center" Text="Copyright Research group of Prof. Zhende Zhu and Zhende Zhu and Huaining Ruan"/>
+            <TextBlock Height="32" TextAlignment="Center"  Text="2014/9"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

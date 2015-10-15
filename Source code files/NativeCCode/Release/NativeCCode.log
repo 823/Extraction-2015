@@ -1,0 +1,687 @@
+﻿Build started 2015/10/15 8:56:46.
+Environment at start of build:
+ADSK_3DSMAX_x64_2012 = C:\Program Files\Autodesk\3ds Max 2012\
+ALLUSERSPROFILE = C:\ProgramData
+ANT_ROOT = C:\Cocos\tools\ant\bin
+APPDATA = C:\Users\luozhihua\AppData\Roaming
+CADOE_DOCDIR100 = C:\SIMULIA\Ansys Inc\v100\CommonFiles\help\en-us\solviewer
+CADOE_LIBDIR100 = C:\SIMULIA\Ansys Inc\v100\CommonFiles\Language\en-us
+CM2012DIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+CM2014DIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+COCOS_CONSOLE_ROOT = C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin
+COCOS_FRAMEWORKS = C:\Cocos\frameworks
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = LZH
+ComSpec = C:\WINDOWS\system32\cmd.exe
+configsetroot = C:\WINDOWS\ConfigSetRoot
+C_EM64T_REDIST11 = C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+FP_NO_HOST_CHECK = NO
+GTK_BASEPATH = C:\Program Files (x86)\GtkSharp\2.12\
+HOMEDRIVE = C:
+HOMEPATH = \Users\luozhihua
+ICEMCFD_SYSDIR = win64_amd
+IFORT_COMPILER12 = C:\Program Files (x86)\Intel\ComposerXE-2011\
+ILBDIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+ILMDIR = C:\Program Files (x86)\Common Files\Autodesk Shared\Materials\
+INTEL_LICENSE_FILE = C:\Program Files (x86)\Common Files\Intel\Licenses
+KMP_STACKSIZE = 4m
+LM_LICENSE_FILE = 27011@lzh
+LOCALAPPDATA = C:\Users\luozhihua\AppData\Local
+LOGONSERVER = \\MicrosoftAccount
+LSTC_LICENSE = ANSYS
+MSMPI_INC = C:\Program Files\Microsoft HPC Pack 2008 R2\Inc\
+MSMPI_LIB32 = C:\Program Files\Microsoft HPC Pack 2008 R2\Lib\i386\
+MSMPI_LIB64 = C:\Program Files\Microsoft HPC Pack 2008 R2\Lib\amd64\
+NUMBER_OF_PROCESSORS = 8
+OS = Windows_NT
+Path = C:\ProgramData\Oracle\Java\javapath;C:\Program Files\ImageMagick-6.9.0-Q16;C:\Program Files\Microsoft HPC Pack 2008 R2\Bin\;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\compiler\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\SIMULIA\Abaqus6.14\Commands;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2010b\runtime\win64;C:\Program Files\MATLAB\R2010b\bin;C:\Program Files\Git\cmd;C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin;C:\Program Files\OpenCV2.1\vs2010\bin;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Cocos\tools\Python27;C:\Users\luozhihua\AppData\Local\Code\bin
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 3c03
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = D:\TEMP
+TMP = D:\TEMP
+USERDOMAIN = LZH
+USERDOMAIN_ROAMINGPROFILE = LZH
+USERNAME = luozhihua
+USERPROFILE = C:\Users\luozhihua
+VisualStudioDir = C:\Users\luozhihua\Documents\Visual Studio 2010
+VS100COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+windir = C:\WINDOWS
+
+08:56:46.843     1>Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" on node 2 (build target(s)).
+08:56:46.843     1>Building with tools version "4.0".
+08:56:46.843     1>Target "_CheckForInvalidConfigurationAndPlatform: (TargetId:2)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+                   Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+                   Using "Message" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Message" (TaskId:2)
+                     Configuration=Release (TaskId:2)
+                   Done executing task "Message". (TaskId:2)
+                   Task "Message" (TaskId:3)
+                     Platform=Win32 (TaskId:3)
+                   Done executing task "Message". (TaskId:3)
+                   Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\' != '' and !HasTrailingSlash('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\')).
+                   Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+                   Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('Release\' != '' and !HasTrailingSlash('Release\')).
+08:56:46.843     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "NativeCCode.vcxproj".: (TargetId:2)
+08:56:46.843     1>Target "_DetermineManagedStateFromCL: (TargetId:3)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.843     1>Done building target "_DetermineManagedStateFromCL" in project "NativeCCode.vcxproj".: (TargetId:3)
+08:56:46.843     1>Target "_PrepareForBuild: (TargetId:4)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.843     1>Done building target "_PrepareForBuild" in project "NativeCCode.vcxproj".: (TargetId:4)
+08:56:46.843     1>Target "SetBuildDefaultEnvironmentVariables: (TargetId:5)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.Cpp.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+                   Using "SetEnv" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "SetEnv" (TaskId:4)
+                     PATH=C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\bin;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\;C:\WINDOWS\SysWow64;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\ImageMagick-6.9.0-Q16;C:\Program Files\Microsoft HPC Pack 2008 R2\Bin\;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mkl;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\intel64\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\mpirt;C:\Program Files (x86)\Intel\ComposerXE-2011\redist\ia32\compiler;C:\Program Files (x86)\Intel\ComposerXE-2011\compiler\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Common Files\Autodesk Shared\;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\SIMULIA\Abaqus6.14\Commands;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MATLAB\R2010b\runtime\win64;C:\Program Files\MATLAB\R2010b\bin;C:\Program Files\Git\cmd;C:\Cocos\frameworks\cocos2d-x-3.4rc1\tools\cocos2d-console\bin;C:\Program Files\OpenCV2.1\vs2010\bin;C:\Program Files (x86)\CMake 2.8\bin;C:\Program Files (x86)\emgucv2.1.0.793\bin;C:\Cocos\tools\Python27;C:\Users\luozhihua\AppData\Local\Code\bin; (TaskId:4)
+                   Done executing task "SetEnv". (TaskId:4)
+                   Task "SetEnv" skipped, due to false condition; ('$(_IsNativeEnvironment)' == 'true') was evaluated as ('' == 'true').
+                   Task "SetEnv" (TaskId:5)
+                     LIB=C:\Program Files (x86)\emgucv2.1.0.793\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\lib;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\lib (TaskId:5)
+                   Done executing task "SetEnv". (TaskId:5)
+                   Task "SetEnv" (TaskId:6)
+                     LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:6)
+                   Done executing task "SetEnv". (TaskId:6)
+                   Task "SetEnv" (TaskId:7)
+                     INCLUDE=C:\Program Files (x86)\emgucv2.1.0.793\opencv\include\opencv;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include;C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include; (TaskId:7)
+                   Done executing task "SetEnv". (TaskId:7)
+08:56:46.843     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "NativeCCode.vcxproj".: (TargetId:5)
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+08:56:46.843     1>Target "BeforeResolveReferences: (TargetId:6)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+08:56:46.843     1>Done building target "BeforeResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:6)
+08:56:46.843     1>Target "AssignProjectConfiguration: (TargetId:7)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignProjectConfiguration" (TaskId:8)
+                   Done executing task "AssignProjectConfiguration". (TaskId:8)
+08:56:46.843     1>Done building target "AssignProjectConfiguration" in project "NativeCCode.vcxproj".: (TargetId:7)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+08:56:46.843     1>Target "_SplitProjectReferencesByFileExistence: (TargetId:8)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveProjectReferences" depends on it):
+                   Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+08:56:46.843     1>Done building target "_SplitProjectReferencesByFileExistence" in project "NativeCCode.vcxproj".: (TargetId:8)
+                   Target "_RemoveNameMetadataFromProjectReferenceItems" skipped, due to false condition; ('@(ProjectReference)'!='') was evaluated as (''!='').
+08:56:46.843     1>Target "ResolveProjectReferences: (TargetId:9)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '10.0' != '10.0' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' == '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '10.0' == '10.0' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+                   Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('' != '' and '' != '').
+08:56:46.843     1>Done building target "ResolveProjectReferences" in project "NativeCCode.vcxproj".: (TargetId:9)
+                   Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+08:56:46.843     1>Target "GetFrameworkPaths: (TargetId:10)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.NETFramework.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+08:56:46.843     1>Done building target "GetFrameworkPaths" in project "NativeCCode.vcxproj".: (TargetId:10)
+                   Target "GetWinFXPath" skipped, due to false condition; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) was evaluated as (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+08:56:46.843     1>Target "GetReferenceAssemblyPaths: (TargetId:11)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "GetReferenceAssemblyPaths" skipped, due to false condition; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) was evaluated as ('.NETFramework,Version=v4.0' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')).
+08:56:46.843     1>Done building target "GetReferenceAssemblyPaths" in project "NativeCCode.vcxproj".: (TargetId:11)
+08:56:46.843     1>Target "PlatformPrepareForBuild: (TargetId:12)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "PrepareForBuild" depends on it):
+                   Task "VCMessage" skipped, due to false condition; (!(exists('$(VCTargetsPath)\Platforms\Win32\PlatformToolsets\$(PlatformToolset)\Microsoft.Cpp.Win32.$(PlatformToolset).targets'))) was evaluated as (!(exists('C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\\Platforms\Win32\PlatformToolsets\v100\Microsoft.Cpp.Win32.v100.targets'))).
+08:56:46.843     1>Done building target "PlatformPrepareForBuild" in project "NativeCCode.vcxproj".: (TargetId:12)
+                   Target "GetFrameworkPaths" skipped. Previously built successfully.
+                   Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+08:56:46.843     1>Target "PrepareForBuild: (TargetId:13)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(ConfigurationPlatformExists)' != 'true') was evaluated as (''!='true' and 'true' != 'true').
+                   Using "MakeDir" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "MakeDir" (TaskId:9)
+                   Done executing task "MakeDir". (TaskId:9)
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and ($(TargetFrameworkVersion)=='v3.5' or $(TargetFrameworkVersion)=='v3.0' or $(TargetFrameworkVersion)=='v2.0' )) was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and (v4.0=='v3.5' or v4.0=='v3.0' or v4.0=='v2.0' )).
+                   Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') was evaluated as (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true' and 'v100'=='v90').
+                   Task "VCMessage" skipped, due to false condition; ('$(VCInstallDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') was evaluated as ('C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\'=='' and '' != 'true').
+                   Task "VCMessage" skipped, due to false condition; ('$(IntDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "VCMessage" skipped, due to false condition; ('$(OutDirTrailingSlashWarning)'=='true') was evaluated as (''=='true').
+                   Task "MakeDir" (TaskId:10)
+                   Done executing task "MakeDir". (TaskId:10)
+08:56:46.843     1>Done building target "PrepareForBuild" in project "NativeCCode.vcxproj".: (TargetId:13)
+08:56:46.843     1>Target "GetInstalledSDKLocations: (TargetId:14)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveSDKReferences" depends on it):
+                   Task "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+08:56:46.843     1>Done building target "GetInstalledSDKLocations" in project "NativeCCode.vcxproj".: (TargetId:14)
+08:56:46.843     1>Target "ResolveSDKReferences: (TargetId:15)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+08:56:46.843     1>Done building target "ResolveSDKReferences" in project "NativeCCode.vcxproj".: (TargetId:15)
+                   Target "ResolveSDKReferences" skipped. Previously built successfully.
+08:56:46.843     1>Target "ExpandSDKReferences: (TargetId:16)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+                   Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+08:56:46.843     1>Done building target "ExpandSDKReferences" in project "NativeCCode.vcxproj".: (TargetId:16)
+08:56:46.843     1>Target "ResolveAssemblyReferences: (TargetId:17)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+                   Using "ResolveAssemblyReference" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ResolveAssemblyReference" (TaskId:11)
+                     TargetFrameworkMoniker: (TaskId:11)
+                         .NETFramework,Version=v4.0 (TaskId:11)
+                     TargetFrameworkMonikerDisplayName: (TaskId:11)
+                         .NET Framework 4 (TaskId:11)
+                     TargetedRuntimeVersion: (TaskId:11)
+                         v4.0.30319 (TaskId:11)
+                     Assemblies: (TaskId:11)
+                         System.Core (TaskId:11)
+                     AssemblyFiles: (TaskId:11)
+                     CandidateAssemblyFiles: (TaskId:11)
+                     TargetFrameworkDirectories: (TaskId:11)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:11)
+                     InstalledAssemblyTables: (TaskId:11)
+                     IgnoreInstalledAssemblyTable: (TaskId:11)
+                         False (TaskId:11)
+                     SearchPaths: (TaskId:11)
+                         {CandidateAssemblyFiles} (TaskId:11)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib (TaskId:11)
+                         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib (TaskId:11)
+                         {HintPathFromItem} (TaskId:11)
+                         {TargetFrameworkDirectory} (TaskId:11)
+                         {Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx} (TaskId:11)
+                         {AssemblyFolders} (TaskId:11)
+                         {GAC} (TaskId:11)
+                         {RawFileName} (TaskId:11)
+                         C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\ (TaskId:11)
+                     AllowedAssemblyExtensions: (TaskId:11)
+                         .winmd (TaskId:11)
+                         .dll (TaskId:11)
+                         .exe (TaskId:11)
+                     AllowedRelatedFileExtensions: (TaskId:11)
+                         .pdb (TaskId:11)
+                         .xml (TaskId:11)
+                         .pri (TaskId:11)
+                     AppConfigFile: (TaskId:11)
+                          (TaskId:11)
+                     AutoUnify: (TaskId:11)
+                         True (TaskId:11)
+                     CopyLocalDependenciesWhenParentReferenceInGac: (TaskId:11)
+                         True (TaskId:11)
+                     FindDependencies: (TaskId:11)
+                         True (TaskId:11)
+                     TargetProcessorArchitecture: (TaskId:11)
+                         x86 (TaskId:11)
+                     StateFile: (TaskId:11)
+                         Release\NativeCCode.vcxprojResolveAssemblyReference.cache (TaskId:11)
+                     InstalledAssemblySubsetTables: (TaskId:11)
+                     IgnoreInstalledAssemblySubsetTable: (TaskId:11)
+                         False (TaskId:11)
+                     TargetFrameworkSubsets: (TaskId:11)
+                     FullTargetFrameworkSubsetNames: (TaskId:11)
+                         Full (TaskId:11)
+                     ProfileName: (TaskId:11)
+                          (TaskId:11)
+                     FullFrameworkFolders: (TaskId:11)
+                         C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0 (TaskId:11)
+                     LatestTargetFrameworkDirectories: (TaskId:11)
+                     ProfileTablesLocation: (TaskId:11)
+                     Primary reference "System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089". (TaskId:11)
+                         Resolved file path is "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll". (TaskId:11)
+                         Reference found at search path location "{TargetFrameworkDirectory}". (TaskId:11)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib". (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.winmd", but it didn't exist. (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.dll", but it didn't exist. (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\lib\System.Core.exe", but it didn't exist. (TaskId:11)
+                             For SearchPath "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib". (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.winmd", but it didn't exist. (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.dll", but it didn't exist. (TaskId:11)
+                             Considered "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\lib\System.Core.exe", but it didn't exist. (TaskId:11)
+                             For SearchPath "{TargetFrameworkDirectory}". (TaskId:11)
+                             Considered "C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.winmd", but it didn't exist. (TaskId:11)
+                         This reference is not "CopyLocal" because it's a prerequisite file. (TaskId:11)
+                         The ImageRuntimeVersion for this reference is "v4.0.30319". (TaskId:11)
+                   Done executing task "ResolveAssemblyReference". (TaskId:11)
+08:56:46.843     1>Done building target "ResolveAssemblyReferences" in project "NativeCCode.vcxproj".: (TargetId:17)
+                   Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+08:56:46.843     1>Target "AfterResolveReferences: (TargetId:18)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResolveReferences" depends on it):
+08:56:46.843     1>Done building target "AfterResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:18)
+                   Target "ImplicitlyExpandDesignTimeFacades" skipped, due to false condition; ('$(ImplicitlyExpandDesignTimeFacades)' == 'true') was evaluated as ('' == 'true').
+                   Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+08:56:46.843     1>Target "ResolveReferences: (TargetId:19)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.843     1>Done building target "ResolveReferences" in project "NativeCCode.vcxproj".: (TargetId:19)
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+08:56:46.843     1>Target "InitializeBuildStatus: (TargetId:20)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+                   Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "ReadLinesFromFile" (TaskId:12)
+                   Done executing task "ReadLinesFromFile". (TaskId:12)
+                   Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "WriteLinesToFile" (TaskId:13)
+                   Done executing task "WriteLinesToFile". (TaskId:13)
+                   Using "Touch" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Touch" (TaskId:14)
+                     Creating "Release\NativeCCode.unsuccessfulbuild" because "AlwaysCreate" was specified. (TaskId:14)
+                   Done executing task "Touch". (TaskId:14)
+08:56:46.858     1>Done building target "InitializeBuildStatus" in project "NativeCCode.vcxproj".: (TargetId:20)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:46.858     1>Target "BuildGenerateSourcesTraverse: (TargetId:21)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+08:56:46.858     1>Done building target "BuildGenerateSourcesTraverse" in project "NativeCCode.vcxproj".: (TargetId:21)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:46.858     1>Target "BeforeBuildGenerateSources: (TargetId:22)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "BeforeBuildGenerateSources" in project "NativeCCode.vcxproj".: (TargetId:22)
+08:56:46.858     1>Target "PreBuildEvent: (TargetId:23)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PreBuildEvent.Command)' != '') was evaluated as ('' != '').
+08:56:46.858     1>Done building target "PreBuildEvent" in project "NativeCCode.vcxproj".: (TargetId:23)
+                   Target "CustomBuild" skipped, due to false condition; ('@(CustomBuild)' != '') was evaluated as ('' != '').
+08:56:46.858     1>Target "_GenerateXMLData: (TargetId:24)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "_GenerateXMLData" in project "NativeCCode.vcxproj".: (TargetId:24)
+08:56:46.858     1>Target "_GenerateWebServiceProxy: (TargetId:25)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "_GenerateWebServiceProxy" in project "NativeCCode.vcxproj".: (TargetId:25)
+                   Target "Xsd" skipped, due to false condition; ('@(Xsd)' != '') was evaluated as ('' != '').
+08:56:46.858     1>Target "_Xsd: (TargetId:26)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "_Xsd" in project "NativeCCode.vcxproj".: (TargetId:26)
+08:56:46.858     1>Target "MakeDirsForMidl: (TargetId:27)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Midl" depends on it):
+                   Task "Makedir" (TaskId:15)
+                   Done executing task "Makedir". (TaskId:15)
+08:56:46.858     1>Done building target "MakeDirsForMidl" in project "NativeCCode.vcxproj".: (TargetId:27)
+                   Target "Midl" skipped, due to false condition; ('@(Midl)' != '') was evaluated as ('' != '').
+                   Target "CustomBuild" skipped, due to false condition; ('@(CustomBuild)' != '') was evaluated as ('' != '').
+08:56:46.858     1>Target "ComputeMIDLGeneratedCompileInputs: (TargetId:28)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Midl" depends on it):
+08:56:46.858     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "NativeCCode.vcxproj".: (TargetId:28)
+08:56:46.858     1>Target "AfterMidl: (TargetId:29)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Midl" depends on it):
+08:56:46.858     1>Done building target "AfterMidl" in project "NativeCCode.vcxproj".: (TargetId:29)
+08:56:46.858     1>Target "_Midl: (TargetId:30)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "_Midl" in project "NativeCCode.vcxproj".: (TargetId:30)
+08:56:46.858     1>Target "AfterBuildGenerateSources: (TargetId:31)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "AfterBuildGenerateSources" in project "NativeCCode.vcxproj".: (TargetId:31)
+08:56:46.858     1>Target "AfterBuildGenerateSourcesEvent: (TargetId:32)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildGenerateSources" depends on it):
+08:56:46.858     1>Done building target "AfterBuildGenerateSourcesEvent" in project "NativeCCode.vcxproj".: (TargetId:32)
+08:56:46.858     1>Target "BuildGenerateSources: (TargetId:33)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.858     1>Done building target "BuildGenerateSources" in project "NativeCCode.vcxproj".: (TargetId:33)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:46.858     1>Target "BuildCompileTraverse: (TargetId:34)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildCompile" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+08:56:46.858     1>Done building target "BuildCompileTraverse" in project "NativeCCode.vcxproj".: (TargetId:34)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:46.858     1>Target "BeforeClCompile: (TargetId:35)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+08:56:46.858     1>Done building target "BeforeClCompile" in project "NativeCCode.vcxproj".: (TargetId:35)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+08:56:46.858     1>Target "ComputeCLInputPDBName: (TargetId:36)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+08:56:46.858     1>Done building target "ComputeCLInputPDBName" in project "NativeCCode.vcxproj".: (TargetId:36)
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:46.858     1>Target "ComputeReferenceCLInput: (TargetId:37)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+                   Task "WriteLinesToFile" (TaskId:16)
+                   Done executing task "WriteLinesToFile". (TaskId:16)
+                   Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true' and '%(ClCompile.CompileAsManaged)' != 'false' and '%(ClCompile.CompileAsManaged)' != '') was evaluated as (''=='true' and '' != 'false' and '' != '').
+08:56:46.858     1>Done building target "ComputeReferenceCLInput" in project "NativeCCode.vcxproj".: (TargetId:37)
+08:56:46.858     1>Target "MakeDirsForCl: (TargetId:38)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+                   Task "MakeDir" (TaskId:17)
+                   Done executing task "MakeDir". (TaskId:17)
+08:56:46.858     1>Done building target "MakeDirsForCl" in project "NativeCCode.vcxproj".: (TargetId:38)
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+08:56:46.858     1>Target "_SelectedFiles: (TargetId:39)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "SelectClCompile" depends on it):
+08:56:46.858     1>Done building target "_SelectedFiles" in project "NativeCCode.vcxproj".: (TargetId:39)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+                   Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+                   Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+                   Target "_SelectedFiles" skipped. Previously built successfully.
+08:56:46.858     1>Target "SelectCustomBuild: (TargetId:40)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "SelectClCompile" depends on it):
+08:56:46.858     1>Done building target "SelectCustomBuild" in project "NativeCCode.vcxproj".: (TargetId:40)
+08:56:46.858     1>Target "SelectClCompile: (TargetId:41)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ClCompile" depends on it):
+08:56:46.858     1>Done building target "SelectClCompile" in project "NativeCCode.vcxproj".: (TargetId:41)
+                   Target "GenerateTargetFrameworkMonikerAttribute" skipped, due to false condition; ('$(GenerateTargetFrameworkAttribute)' == 'true') was evaluated as ('false' == 'true').
+                   Target "ManagedIncrementalBuildPreProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('FunctionsForImage.cpp;LocationList.cpp;LocationQueue.cpp;NativeCCode.cpp;Stdafx.cpp' != '' and 'false' == 'True').
+08:56:46.858     1>Target "ClCompile: (TargetId:42)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+                   Task "Delete" skipped, due to false condition; ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) was evaluated as ('ProgramDatabase' != '' and 'ProgramDatabase' != 'OldStyle' and 'Release\vc100.pdb' != '' and !Exists(Release\vc100.pdb)).
+                   Task "CL" skipped, due to false condition; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true') was evaluated as ('' == 'Create' and ''!='true').
+                   Using "CL" task from assembly "Microsoft.Build.CppTasks.Win32, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "CL" (TaskId:18)
+                     Read Tracking Logs: (TaskId:18)
+                     	Release\cl.read.1.tlog (TaskId:18)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\FUNCTIONSFORIMAGE.CPP|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\LOCATIONLIST.CPP|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\LOCATIONQUEUE.CPP|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\NATIVECCODE.CPP|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\STDAFX.CPP: (TaskId:18)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\FUNCTIONSFORIMAGE.OBJ (TaskId:18)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\LOCATIONLIST.OBJ (TaskId:18)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\LOCATIONQUEUE.OBJ (TaskId:18)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\NATIVECCODE.OBJ (TaskId:18)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\STDAFX.OBJ (TaskId:18)
+                     All outputs are up-to-date. (TaskId:18)
+                   Done executing task "CL". (TaskId:18)
+08:56:46.874     1>Done building target "ClCompile" in project "NativeCCode.vcxproj".: (TargetId:42)
+                   Target "ManagedIncrementalBuildPostProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('FunctionsForImage.cpp;LocationList.cpp;LocationQueue.cpp;NativeCCode.cpp;Stdafx.cpp' != '' and 'false' == 'True').
+08:56:46.874     1>Target "AfterClCompile: (TargetId:43)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ClCompile" depends on it):
+08:56:46.874     1>Done building target "AfterClCompile" in project "NativeCCode.vcxproj".: (TargetId:43)
+08:56:46.874     1>Target "_ClCompile: (TargetId:44)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildCompile" depends on it):
+08:56:46.874     1>Done building target "_ClCompile" in project "NativeCCode.vcxproj".: (TargetId:44)
+                   Target "_ResGen" skipped, due to false condition; ('@(EmbeddedResource)'!='') was evaluated as (''!='').
+08:56:46.874     1>Target "BeforeResourceCompile: (TargetId:45)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ResourceCompile" depends on it):
+08:56:46.874     1>Done building target "BeforeResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:45)
+08:56:46.874     1>Target "MakeDirsForResourceCompile: (TargetId:46)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ResourceCompile" depends on it):
+                   Task "MakeDir" (TaskId:19)
+                   Done executing task "MakeDir". (TaskId:19)
+08:56:46.874     1>Done building target "MakeDirsForResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:46)
+                   Target "_SelectedFiles" skipped. Previously built successfully.
+                   Target "SelectCustomBuild" skipped. Previously built successfully.
+08:56:46.874     1>Target "SelectResourceCompile: (TargetId:47)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ResourceCompile" depends on it):
+08:56:46.874     1>Done building target "SelectResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:47)
+08:56:46.874     1>Target "ResourceCompile: (TargetId:48)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ResourceCompile" depends on it):
+                   Using "RC" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "RC" (TaskId:20)
+                     Write Tracking Logs: (TaskId:20)
+                     	Release\rc.write.1.tlog (TaskId:20)
+                     Read Tracking Logs: (TaskId:20)
+                     	Release\rc.read.1.tlog (TaskId:20)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\NATIVECCODE.RC: (TaskId:20)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\NATIVECCODE.RES (TaskId:20)
+                     All outputs are up-to-date. (TaskId:20)
+                   Done executing task "RC". (TaskId:20)
+08:56:46.889     1>Done building target "ResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:48)
+08:56:46.889     1>Target "AfterResourceCompile: (TargetId:49)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_ResourceCompile" depends on it):
+08:56:46.889     1>Done building target "AfterResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:49)
+08:56:46.889     1>Target "_ResourceCompile: (TargetId:50)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildCompile" depends on it):
+08:56:46.889     1>Done building target "_ResourceCompile" in project "NativeCCode.vcxproj".: (TargetId:50)
+                   Target "_ImpLib" skipped, due to false condition; ('$(ImpLibCompiled)' == 'true') was evaluated as ('' == 'true').
+08:56:46.889     1>Target "BeforeLib: (TargetId:51)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "BeforeLib" in project "NativeCCode.vcxproj".: (TargetId:51)
+08:56:46.889     1>Target "ComputeLibAdditionalOptions: (TargetId:52)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "ComputeLibAdditionalOptions" in project "NativeCCode.vcxproj".: (TargetId:52)
+08:56:46.889     1>Target "ComputeRCOutputs: (TargetId:53)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ComputeRCGeneratedLibInputs" depends on it):
+08:56:46.889     1>Done building target "ComputeRCOutputs" in project "NativeCCode.vcxproj".: (TargetId:53)
+08:56:46.889     1>Target "ComputeRCGeneratedLibInputs: (TargetId:54)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "ComputeRCGeneratedLibInputs" in project "NativeCCode.vcxproj".: (TargetId:54)
+08:56:46.889     1>Target "ComputeCustomBuildOutput: (TargetId:55)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+                   Task "MakeDir" (TaskId:21)
+                   Done executing task "MakeDir". (TaskId:21)
+08:56:46.889     1>Done building target "ComputeCustomBuildOutput" in project "NativeCCode.vcxproj".: (TargetId:55)
+                   Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+                   Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+                   Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+08:56:46.889     1>Target "ComputeCLOutputs: (TargetId:56)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "ComputeCLGeneratedLibInputs" depends on it):
+08:56:46.889     1>Done building target "ComputeCLOutputs" in project "NativeCCode.vcxproj".: (TargetId:56)
+08:56:46.889     1>Target "ComputeCLGeneratedLibInputs: (TargetId:57)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "ComputeCLGeneratedLibInputs" in project "NativeCCode.vcxproj".: (TargetId:57)
+08:56:46.889     1>Target "ComputeLibInputsFromProject: (TargetId:58)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "ComputeLibInputsFromProject" in project "NativeCCode.vcxproj".: (TargetId:58)
+                   Target "ComputeReferenceLibInputs" skipped, due to false condition; (@(ProjectReference) != '') was evaluated as ( != '').
+08:56:46.889     1>Target "MakeDirsForLib: (TargetId:59)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+                   Task "MakeDir" (TaskId:22)
+                   Done executing task "MakeDir". (TaskId:22)
+08:56:46.889     1>Done building target "MakeDirsForLib" in project "NativeCCode.vcxproj".: (TargetId:59)
+08:56:46.889     1>Target "DoLibOutputFilesMatch: (TargetId:60)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLib.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))') was evaluated as ('C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\NativeCCode.lib' != 'C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\NativeCCode.lib').
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLib.Extension)' != '$(TargetExt)') was evaluated as ('.lib' != '.lib').
+                   Task "VCMessage" skipped, due to false condition; ('%(_OutputFileFromLib.Filename)' != '$(TargetName)') was evaluated as ('NativeCCode' != 'NativeCCode').
+08:56:46.889     1>Done building target "DoLibOutputFilesMatch" in project "NativeCCode.vcxproj".: (TargetId:60)
+08:56:46.889     1>Target "PreLinkEvent: (TargetId:61)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PreLinkEvent.Command)' != '') was evaluated as ('' != '').
+08:56:46.889     1>Done building target "PreLinkEvent" in project "NativeCCode.vcxproj".: (TargetId:61)
+08:56:46.889     1>Target "Lib: (TargetId:62)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+                   Using "LIB" task from assembly "Microsoft.Build.CppTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "LIB" (TaskId:23)
+                     Write Tracking Logs: (TaskId:23)
+                     	Release\Lib-link-cvtres.write.1.tlog (TaskId:23)
+                     	Release\Lib-link.write.1.tlog (TaskId:23)
+                     Read Tracking Logs: (TaskId:23)
+                     	Release\Lib-link-cvtres.read.1.tlog (TaskId:23)
+                     	Release\Lib-link.read.1.tlog (TaskId:23)
+                     Outputs for C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\FUNCTIONSFORIMAGE.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\LOCATIONLIST.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\LOCATIONQUEUE.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\NATIVECCODE.OBJ|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\NATIVECCODE.RES|C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\NATIVECCODE\RELEASE\STDAFX.OBJ: (TaskId:23)
+                     	C:\USERS\LUOZHIHUA\DESKTOP\CRACK EXTRACTION AND ANALYSIS -COMPUTER CODE\SOURCE CODE FILES\RELEASE\NATIVECCODE.LIB (TaskId:23)
+                     All outputs are up-to-date. (TaskId:23)
+                   Done executing task "LIB". (TaskId:23)
+                   Task "Message" (TaskId:24)
+                     NativeCCode.vcxproj -> C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\Release\NativeCCode.lib (TaskId:24)
+                   Done executing task "Message". (TaskId:24)
+08:56:46.889     1>Done building target "Lib" in project "NativeCCode.vcxproj".: (TargetId:62)
+08:56:46.889     1>Target "AfterLib: (TargetId:63)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_Lib" depends on it):
+08:56:46.889     1>Done building target "AfterLib" in project "NativeCCode.vcxproj".: (TargetId:63)
+08:56:46.889     1>Target "_Lib: (TargetId:64)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildCompile" depends on it):
+08:56:46.889     1>Done building target "_Lib" in project "NativeCCode.vcxproj".: (TargetId:64)
+08:56:46.889     1>Target "AfterBuildCompileEvent: (TargetId:65)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildCompile" depends on it):
+08:56:46.889     1>Done building target "AfterBuildCompileEvent" in project "NativeCCode.vcxproj".: (TargetId:65)
+08:56:46.889     1>Target "BuildCompile: (TargetId:66)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.889     1>Done building target "BuildCompile" in project "NativeCCode.vcxproj".: (TargetId:66)
+                   Target "AssignProjectConfiguration" skipped. Previously built successfully.
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:46.889     1>Target "BuildLinkTraverse: (TargetId:67)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+08:56:46.889     1>Done building target "BuildLinkTraverse" in project "NativeCCode.vcxproj".: (TargetId:67)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+                   Target "_Link" skipped, due to false condition; ('$(LinkCompiled)' == 'true') was evaluated as ('' == 'true').
+08:56:46.889     1>Target "_ALink: (TargetId:68)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.889     1>Done building target "_ALink" in project "NativeCCode.vcxproj".: (TargetId:68)
+08:56:46.889     1>Target "_Manifest: (TargetId:69)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.889     1>Done building target "_Manifest" in project "NativeCCode.vcxproj".: (TargetId:69)
+08:56:46.889     1>Target "RegisterOutput: (TargetId:70)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+                   Task "Exec" skipped, due to false condition; ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true') was evaluated as ('StaticLibrary'=='DynamicLibrary' and ''=='true' and ''!='true').
+                   Task "Exec" skipped, due to false condition; ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true') was evaluated as ('StaticLibrary'=='DynamicLibrary' and ''=='true' and ''=='true').
+                   Task "Exec" skipped, due to false condition; ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true') was evaluated as ('StaticLibrary'=='Application' and ''=='true' and ''!='true').
+                   Task "Exec" skipped, due to false condition; ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true') was evaluated as ('StaticLibrary'=='Application' and ''=='true' and ''=='true').
+                   Task "VCMessage" skipped, due to false condition; ('$(_RegisterOutputExitCode)' != '' and '$(_RegisterOutputExitCode)' != '0') was evaluated as ('' != '' and '' != '0').
+08:56:46.905     1>Done building target "RegisterOutput" in project "NativeCCode.vcxproj".: (TargetId:70)
+08:56:46.905     1>Target "ComputeCLCompileGeneratedXDCFiles: (TargetId:71)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_XdcMake" depends on it):
+08:56:46.905     1>Done building target "ComputeCLCompileGeneratedXDCFiles" in project "NativeCCode.vcxproj".: (TargetId:71)
+                   Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+                   Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '') was evaluated as ('' != '').
+                   Target "PrepareForBuild" skipped. Previously built successfully.
+                   Target "ResolveReferences" skipped. Previously built successfully.
+08:56:46.905     1>Target "ResolvedXDCMake: (TargetId:72)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_XdcMake" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '$(_ClCompileGenerateXMLDocumentationFiles)' == 'true') was evaluated as ('' == '.vcxproj' and '' != '' and '' != '' and '' == 'true').
+08:56:46.905     1>Done building target "ResolvedXDCMake" in project "NativeCCode.vcxproj".: (TargetId:72)
+08:56:46.905     1>Target "MakeDirsForXdcMake: (TargetId:73)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_XdcMake" depends on it):
+                   Task "MakeDir" (TaskId:25)
+                   Done executing task "MakeDir". (TaskId:25)
+08:56:46.905     1>Done building target "MakeDirsForXdcMake" in project "NativeCCode.vcxproj".: (TargetId:73)
+                   Target "XdcMake" skipped, due to false condition; ('@(XdcMake)' != '') was evaluated as ('' != '').
+08:56:46.905     1>Target "_XdcMake: (TargetId:74)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.905     1>Done building target "_XdcMake" in project "NativeCCode.vcxproj".: (TargetId:74)
+08:56:46.905     1>Target "ComputeCLCompileGeneratedSbrFiles: (TargetId:75)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_BscMake" depends on it):
+08:56:46.905     1>Done building target "ComputeCLCompileGeneratedSbrFiles" in project "NativeCCode.vcxproj".: (TargetId:75)
+08:56:46.905     1>Target "MakeDirsForBscMake: (TargetId:76)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_BscMake" depends on it):
+                   Task "MakeDir" (TaskId:26)
+                   Done executing task "MakeDir". (TaskId:26)
+08:56:46.905     1>Done building target "MakeDirsForBscMake" in project "NativeCCode.vcxproj".: (TargetId:76)
+                   Target "BscMake" skipped, due to false condition; ('@(BscMake)' != '') was evaluated as ('' != '').
+                   Target "CustomBuildStep" skipped, due to false condition; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') was evaluated as ('' != '' and ''=='').
+08:56:46.905     1>Target "_BscMake: (TargetId:77)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.905     1>Done building target "_BscMake" in project "NativeCCode.vcxproj".: (TargetId:77)
+08:56:46.905     1>Target "_GenerateSatelliteAssemblyInputs: (TargetId:78)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "CreateSatelliteAssemblies" depends on it):
+                   Task "Warning" skipped, due to false condition; ('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+                   Task "Warning" skipped, due to false condition; ('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'=='') was evaluated as (''!='' and ''=='').
+08:56:46.905     1>Done building target "_GenerateSatelliteAssemblyInputs" in project "NativeCCode.vcxproj".: (TargetId:78)
+                   Target "ComputeIntermediateSatelliteAssemblies" skipped, due to false condition; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') was evaluated as ( != '').
+                   Target "GenerateSatelliteAssemblies" skipped, due to false condition; ('@(_SatelliteAssemblyResourceInputs)' != '') was evaluated as ('' != '').
+08:56:46.905     1>Target "CreateSatelliteAssemblies: (TargetId:79)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.905     1>Done building target "CreateSatelliteAssemblies" in project "NativeCCode.vcxproj".: (TargetId:79)
+08:56:46.905     1>Target "_Appverifier: (TargetId:80)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.905     1>Done building target "_Appverifier" in project "NativeCCode.vcxproj".: (TargetId:80)
+08:56:46.905     1>Target "_Deploy: (TargetId:81)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+08:56:46.905     1>Done building target "_Deploy" in project "NativeCCode.vcxproj".: (TargetId:81)
+                   Target "ComputeIntermediateSatelliteAssemblies" skipped, due to false condition; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') was evaluated as ( != '').
+                   Target "_CopyFilesMarkedCopyLocal" skipped, due to false condition; ('@(ReferenceCopyLocalPaths)' != '') was evaluated as ('' != '').
+08:56:46.905     1>Target "AssignTargetPaths: (TargetId:82)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+                   Using "AssignTargetPath" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "AssignTargetPath" (TaskId:27)
+                   Done executing task "AssignTargetPath". (TaskId:27)
+                   Task "AssignTargetPath" (TaskId:28)
+                   Done executing task "AssignTargetPath". (TaskId:28)
+                   Task "AssignTargetPath" (TaskId:29)
+                   Done executing task "AssignTargetPath". (TaskId:29)
+                   Task "AssignTargetPath" (TaskId:30)
+                   Done executing task "AssignTargetPath". (TaskId:30)
+                   Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.txt'=='.manifest').
+08:56:46.905     1>Done building target "AssignTargetPaths" in project "NativeCCode.vcxproj".: (TargetId:82)
+                   Target "_SplitProjectReferencesByFileExistence" skipped. Previously built successfully.
+08:56:46.905     1>Target "GetCopyToOutputDirectoryXamlAppDefs: (TargetId:83)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "GetCopyToOutputDirectoryItems" depends on it):
+                   Task "AssignTargetPath" (TaskId:31)
+                   Done executing task "AssignTargetPath". (TaskId:31)
+08:56:46.905     1>Done building target "GetCopyToOutputDirectoryXamlAppDefs" in project "NativeCCode.vcxproj".: (TargetId:83)
+08:56:46.905     1>Target "GetCopyToOutputDirectoryItems: (TargetId:84)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "_CopySourceItemsToOutputDirectory" depends on it):
+                   Task "MSBuild" skipped, due to false condition; ('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true') was evaluated as ('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true').
+                   Task "AssignTargetPath" (TaskId:32)
+                   Done executing task "AssignTargetPath". (TaskId:32)
+08:56:46.905     1>Done building target "GetCopyToOutputDirectoryItems" in project "NativeCCode.vcxproj".: (TargetId:84)
+                   Target "_CopyOutOfDateSourceItemsToOutputDirectory" skipped, due to false condition; ( '@(_SourceItemsToCopyToOutputDirectory)' != '' ) was evaluated as ( '' != '' ).
+                   Target "_CopyOutOfDateSourceItemsToOutputDirectoryAlways" skipped, due to false condition; ( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' ) was evaluated as ( '' != '' ).
+08:56:46.905     1>Target "_CopySourceItemsToOutputDirectory: (TargetId:85)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+08:56:46.905     1>Done building target "_CopySourceItemsToOutputDirectory" in project "NativeCCode.vcxproj".: (TargetId:85)
+                   Target "_CopyAppConfigFile" skipped, due to false condition; ( '@(AppConfigWithTargetPath)' != '' ) was evaluated as ( '' != '' ).
+                   Target "_CopyManifestFiles" skipped, due to false condition; ( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' ) was evaluated as ( ''=='true' or ''=='true' ).
+08:56:46.905     1>Target "_CheckForCompileOutputs: (TargetId:86)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "CopyFilesToOutputDirectory" depends on it):
+08:56:46.905     1>Done building target "_CheckForCompileOutputs" in project "NativeCCode.vcxproj".: (TargetId:86)
+                   Target "_SGenCheckForOutputs" skipped, due to false condition; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')) was evaluated as ('Auto' == 'On' or (''!='' and 'Auto' == 'Auto')).
+08:56:46.905     1>Target "CopyFilesToOutputDirectory: (TargetId:87)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+                   Task "Copy" skipped, due to false condition; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true') was evaluated as ('true' == 'true' and 'true' != 'true').
+                   Task "Message" skipped, due to false condition; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)'!='true') was evaluated as ('true' == 'true' and 'true'!='true').
+                   Task "Copy" skipped, due to false condition; ('@(AddModules)' != '') was evaluated as ('' != '').
+                   Task "Copy" skipped, due to false condition; ('$(_SGenDllCreated)'=='true') was evaluated as ('false'=='true').
+                   Task "Copy" skipped, due to false condition; ('$(_DebugSymbolsProduced)'=='true' and '$(SkipCopyingSymbolsToOutputDirectory)' != 'true' and '$(CopyOutputSymbolsToOutputDirectory)'=='true') was evaluated as ('false'=='true' and '' != 'true' and 'true'=='true').
+                   Task "Copy" skipped, due to false condition; ('$(_DocumentationFileProduced)'=='true') was evaluated as ('false'=='true').
+                   Task "Copy" skipped, due to false condition; ('@(IntermediateSatelliteAssembliesWithTargetPath)' != '') was evaluated as ('' != '').
+                   Task "Copy" skipped, due to false condition; ('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' ) was evaluated as ('' != '' or '' != '' or '' != '' or '' != '' ).
+                   Task "Copy" skipped, due to false condition; ('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != '') was evaluated as ('' != 'true' and '' != '').
+                   Task "Message" skipped, due to false condition; ('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != '') was evaluated as ('' != 'true' and '' != '').
+08:56:46.905     1>Done building target "CopyFilesToOutputDirectory" in project "NativeCCode.vcxproj".: (TargetId:87)
+                   Target "CustomBuildStep" skipped, due to false condition; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') was evaluated as ('' != '' and ''=='').
+08:56:46.905     1>Target "PostBuildEvent: (TargetId:88)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "BuildLink" depends on it):
+                   Task "Message" skipped, due to false condition; ('%(PostBuildEvent.Message)' != '' and '%(PostBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+                   Task "Exec" skipped, due to false condition; ('%(PostBuildEvent.Command)' != '') was evaluated as ('' != '').
+08:56:46.905     1>Done building target "PostBuildEvent" in project "NativeCCode.vcxproj".: (TargetId:88)
+08:56:46.905     1>Target "BuildLink: (TargetId:89)" in file "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.905     1>Done building target "BuildLink" in project "NativeCCode.vcxproj".: (TargetId:89)
+08:56:46.905     1>Target "AfterBuild: (TargetId:90)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+08:56:46.905     1>Done building target "AfterBuild" in project "NativeCCode.vcxproj".: (TargetId:90)
+08:56:46.905     1>Target "FinalizeBuildStatus: (TargetId:91)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (target "Build" depends on it):
+                   Using "Delete" task from assembly "Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+                   Task "Delete" (TaskId:33)
+                     Deleting file "Release\NativeCCode.unsuccessfulbuild". (TaskId:33)
+                   Done executing task "Delete". (TaskId:33)
+                   Task "Touch" (TaskId:34)
+                     Touching "Release\NativeCCode.lastbuildstate". (TaskId:34)
+                   Done executing task "Touch". (TaskId:34)
+08:56:46.905     1>Done building target "FinalizeBuildStatus" in project "NativeCCode.vcxproj".: (TargetId:91)
+08:56:46.905     1>Target "Build: (TargetId:92)" in file "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.BuildSteps.Targets" from project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (entry point):
+08:56:46.905     1>Done building target "Build" in project "NativeCCode.vcxproj".: (TargetId:92)
+08:56:46.905     1>Done Building Project "C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj" (build target(s)).
+
+Project Performance Summary:
+       63 ms  C:\Users\luozhihua\Desktop\Crack extraction and Analysis -Computer Code\Source code files\NativeCCode\NativeCCode.vcxproj   1 calls
+                 63 ms  build                                      1 calls
+
+Target Performance Summary:
+        0 ms  MakeDirsForLib                             1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  MakeDirsForCl                              1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  SelectResourceCompile                      1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  ComputeCLOutputs                           1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  _GenerateXMLData                           1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  ComputeLibInputsFromProject                1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  BeforeLib                                  1 calls
+        0 ms  FinalizeBuildStatus                        1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  ComputeCLGeneratedLibInputs                1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  DoLibOutputFilesMatch                      1 calls
+        0 ms  CopyFilesToOutputDirectory                 1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  PlatformPrepareForBuild                    1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  Build                                      1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  _DetermineManagedStateFromCL               1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  AssignTargetPaths                          1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        0 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  Lib                                        1 calls
+        0 ms  _Lib                                       1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeLibAdditionalOptions                1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  PrepareForBuild                            1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  GetCopyToOutputDirectoryItems              1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  _GenerateWebServiceProxy                   1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  ComputeRCGeneratedLibInputs                1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  AfterLib                                   1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+       16 ms  InitializeBuildStatus                      1 calls
+       16 ms  ResourceCompile                            1 calls
+       16 ms  ClCompile                                  1 calls
+       16 ms  RegisterOutput                             1 calls
+
+Task Performance Summary:
+        0 ms  Message                                    3 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  Touch                                      2 calls
+        0 ms  Delete                                     1 calls
+        0 ms  LIB                                        1 calls
+        0 ms  AssignTargetPath                           6 calls
+        0 ms  ResolveAssemblyReference                   1 calls
+        0 ms  WriteLinesToFile                           2 calls
+        0 ms  SetEnv                                     4 calls
+        0 ms  MakeDir                                    9 calls
+       16 ms  ReadLinesFromFile                          1 calls
+       16 ms  RC                                         1 calls
+       16 ms  CL                                         1 calls
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
