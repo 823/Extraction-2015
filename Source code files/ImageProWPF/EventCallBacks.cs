@@ -99,6 +99,7 @@ namespace ImageProWPF
                 System.Windows.Point ptINviewer = e.GetPosition((IInputElement)imagescrollviewer);
                 double newoffsetx = clickdownPositionInimage.X - ptINviewer.X;
                 double newoffsety = clickdownPositionInimage.Y - ptINviewer.Y;
+		//此处实现鼠标拖动图片
                 if (newoffsetx > 0)
                 {
                     imagescrollviewer.ScrollToHorizontalOffset(newoffsetx);
@@ -224,7 +225,7 @@ namespace ImageProWPF
             double newoffsetx = newXinimage - ptINviewer.X;
             double newoffsety = newYinimage - ptINviewer.Y;
             imageshowbox.Width = (double)imageWidth * tempbindgroup.Zoomsize / 100;
-            
+            //这里主要实现以鼠标位置为缩放中心的缩放
             if (newoffsetx>0)
             {
                 imagescrollviewer.ScrollToHorizontalOffset(newoffsetx);
